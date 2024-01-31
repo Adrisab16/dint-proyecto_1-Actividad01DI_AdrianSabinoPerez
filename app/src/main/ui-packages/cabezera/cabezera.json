@@ -5,7 +5,7 @@
     "type": "figma",
     "file": "h4CkmrfwsKcoZ1TLUnb1ti",
     "node": "39:724",
-    "version": "5069382999",
+    "version": "5069882014",
     "component-id": "203a332f676d6707eac787da1bb139d4abce6c76"
   },
   "default": "CABEZERA",
@@ -17,8 +17,8 @@
         "root": "true"
       },
       {
-        "type": "vector",
-        "id": "Rectangle 2"
+        "type": "image",
+        "id": "image 7"
       },
       {
         "type": "image",
@@ -27,10 +27,6 @@
       {
         "type": "image",
         "id": "image 6"
-      },
-      {
-        "type": "image",
-        "id": "image 7"
       }
     ],
     "modes": {
@@ -38,45 +34,59 @@
         "rules": [
           {
             "id": "top_level",
-            "is-structured": "false",
-            "children": [
-              "Rectangle 2",
-              "image 5",
-              "image 6",
-              "image 7"
-            ],
-            "clip-content": "false"
-          },
-          {
-            "id": "Rectangle 2",
-            "size-constraints": {
-              "width-constraints": {
-                "sizing-mode": "proportional",
-                "value": "1.0"
-              },
-              "height-constraints": {
-                "sizing-mode": "proportional",
-                "value": "1.0"
-              }
-            },
-            "vector-content": "rectangle_2.svg"
-          },
-          {
-            "id": "image 5",
-            "margin": {
-              "left": "107.0",
-              "top": "11.0",
-              "right": "107.0",
+            "padding": {
+              "left": "6.0",
+              "top": "9.0",
+              "right": "6.0",
               "bottom": "9.0"
             },
             "size-constraints": {
               "width-constraints": {
-                "sizing-mode": "proportional",
-                "value": "1.0"
+                "sizing-mode": "shrink"
               },
               "height-constraints": {
-                "sizing-mode": "proportional",
-                "value": "1.0"
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "image 7",
+              "image 5",
+              "image 6"
+            ],
+            "item-spacing": "27.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            }
+          },
+          {
+            "id": "image 7",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "79.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "68.0"
+              }
+            },
+            "image-content": "image_7.png",
+            "scale": "cover"
+          },
+          {
+            "id": "image 5",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "146.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "70.0"
               }
             },
             "image-content": "image_5.png",
@@ -84,43 +94,17 @@
           },
           {
             "id": "image 6",
-            "margin": {
-              "left": "301.0",
-              "top": "24.0",
-              "right": "19.0",
-              "bottom": "22.0"
-            },
             "size-constraints": {
               "width-constraints": {
-                "sizing-mode": "proportional",
-                "value": "1.0"
+                "sizing-mode": "fixed",
+                "value": "40.0"
               },
               "height-constraints": {
-                "sizing-mode": "proportional",
-                "value": "1.0"
+                "sizing-mode": "fixed",
+                "value": "44.0"
               }
             },
             "image-content": "image_6.png",
-            "scale": "cover"
-          },
-          {
-            "id": "image 7",
-            "margin": {
-              "top": "12.0",
-              "right": "281.0",
-              "bottom": "10.0"
-            },
-            "size-constraints": {
-              "width-constraints": {
-                "sizing-mode": "proportional",
-                "value": "1.0"
-              },
-              "height-constraints": {
-                "sizing-mode": "proportional",
-                "value": "1.0"
-              }
-            },
-            "image-content": "image_7.png",
             "scale": "cover"
           }
         ]
@@ -131,8 +115,8 @@
     {
       "design": "CABEZERA",
       "size": {
-        "width": 360.0,
-        "height": 90.0
+        "width": 331.0,
+        "height": 88.0
       }
     }
   ],

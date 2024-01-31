@@ -1,21 +1,21 @@
 package com.example.actividad1di.cabezera
 
 import androidx.compose.foundation.layout.PaddingValues
-import androidx.compose.foundation.layout.fillMaxHeight
-import androidx.compose.foundation.layout.fillMaxWidth
-import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.requiredHeight
+import androidx.compose.foundation.layout.requiredWidth
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.example.actividad1di.R
 import com.google.relay.compose.RelayContainer
+import com.google.relay.compose.RelayContainerArrangement
 import com.google.relay.compose.RelayContainerScope
 import com.google.relay.compose.RelayImage
-import com.google.relay.compose.RelayVector
 
 /**
  * This composable was generated from the UI Package 'cabezera'.
@@ -24,28 +24,26 @@ import com.google.relay.compose.RelayVector
 @Composable
 fun Cabezera(modifier: Modifier = Modifier) {
     TopLevel(modifier = modifier) {
-        Rectangle2(modifier = Modifier.rowWeight(1.0f).columnWeight(1.0f))
-        Image5(modifier = Modifier.rowWeight(1.0f).columnWeight(1.0f))
-        Image6(modifier = Modifier.rowWeight(1.0f).columnWeight(1.0f))
-        Image7(modifier = Modifier.rowWeight(1.0f).columnWeight(1.0f))
+        Image7()
+        Image5()
+        Image6()
     }
 }
 
-@Preview(widthDp = 360, heightDp = 90)
+@Preview(widthDp = 331, heightDp = 88)
 @Composable
 private fun CabezeraPreview() {
     MaterialTheme {
-        RelayContainer {
-            Cabezera(modifier = Modifier.rowWeight(1.0f).columnWeight(1.0f))
-        }
+        Cabezera()
     }
 }
 
 @Composable
-fun Rectangle2(modifier: Modifier = Modifier) {
-    RelayVector(
-        vector = painterResource(R.drawable.cabezera_rectangle_2),
-        modifier = modifier.fillMaxWidth(1.0f).fillMaxHeight(1.0f)
+fun Image7(modifier: Modifier = Modifier) {
+    RelayImage(
+        image = painterResource(R.drawable.cabezera_image_7),
+        contentScale = ContentScale.Crop,
+        modifier = modifier.requiredWidth(79.0.dp).requiredHeight(68.0.dp)
     )
 }
 
@@ -54,14 +52,7 @@ fun Image5(modifier: Modifier = Modifier) {
     RelayImage(
         image = painterResource(R.drawable.cabezera_image_5),
         contentScale = ContentScale.Crop,
-        modifier = modifier.padding(
-            paddingValues = PaddingValues(
-                start = 107.0.dp,
-                top = 11.0.dp,
-                end = 107.0.dp,
-                bottom = 9.0.dp
-            )
-        ).fillMaxWidth(1.0f).fillMaxHeight(1.0f)
+        modifier = modifier.requiredWidth(146.0.dp).requiredHeight(70.0.dp)
     )
 }
 
@@ -70,30 +61,7 @@ fun Image6(modifier: Modifier = Modifier) {
     RelayImage(
         image = painterResource(R.drawable.cabezera_image_6),
         contentScale = ContentScale.Crop,
-        modifier = modifier.padding(
-            paddingValues = PaddingValues(
-                start = 301.0.dp,
-                top = 24.0.dp,
-                end = 19.0.dp,
-                bottom = 22.0.dp
-            )
-        ).fillMaxWidth(1.0f).fillMaxHeight(1.0f)
-    )
-}
-
-@Composable
-fun Image7(modifier: Modifier = Modifier) {
-    RelayImage(
-        image = painterResource(R.drawable.cabezera_image_7),
-        contentScale = ContentScale.Crop,
-        modifier = modifier.padding(
-            paddingValues = PaddingValues(
-                start = 0.0.dp,
-                top = 12.0.dp,
-                end = 281.0.dp,
-                bottom = 10.0.dp
-            )
-        ).fillMaxWidth(1.0f).fillMaxHeight(1.0f)
+        modifier = modifier.requiredWidth(40.0.dp).requiredHeight(44.0.dp)
     )
 }
 
@@ -103,9 +71,21 @@ fun TopLevel(
     content: @Composable RelayContainerScope.() -> Unit
 ) {
     RelayContainer(
-        isStructured = false,
-        clipToParent = false,
+        backgroundColor = Color(
+            alpha = 255,
+            red = 0,
+            green = 0,
+            blue = 0
+        ),
+        arrangement = RelayContainerArrangement.Row,
+        padding = PaddingValues(
+            start = 6.0.dp,
+            top = 9.0.dp,
+            end = 6.0.dp,
+            bottom = 9.0.dp
+        ),
+        itemSpacing = 27.0,
         content = content,
-        modifier = modifier.fillMaxWidth(1.0f).fillMaxHeight(1.0f)
+        modifier = modifier
     )
 }
