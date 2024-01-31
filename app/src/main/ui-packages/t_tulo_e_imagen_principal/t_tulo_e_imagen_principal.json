@@ -1,0 +1,143 @@
+{
+  "name": "t_tulo_e_imagen_principal",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "h4CkmrfwsKcoZ1TLUnb1ti",
+    "node": "42:1322",
+    "version": "5069382999",
+    "component-id": "810613b4c3f7537c10697dcc3fbff652e0f1c806"
+  },
+  "default": "TÍTULO E IMAGEN PRINCIPAL",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "text",
+        "id": "LA PESADILLA DE HIERRO"
+      },
+      {
+        "type": "image",
+        "id": "image 6"
+      },
+      {
+        "type": "text",
+        "id": "MORDEKAISER"
+      }
+    ],
+    "modes": {
+      "TÍTULO E IMAGEN PRINCIPAL": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "LA PESADILLA DE HIERRO",
+              "image 6",
+              "MORDEKAISER"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "LA PESADILLA DE HIERRO",
+            "margin": {
+              "bottom": "300.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "LA PESADILLA DE HIERRO",
+            "italic": "true",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "13.0",
+            "line-height": "1.14990234375",
+            "typeface": "Arial"
+          },
+          {
+            "id": "image 6",
+            "margin": {
+              "left": "5.0",
+              "top": "91.0",
+              "right": "5.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "image_6.png",
+            "scale": "cover"
+          },
+          {
+            "id": "MORDEKAISER",
+            "margin": {
+              "top": "17.0",
+              "bottom": "250.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "MORDEKAISER",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "40.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "TÍTULO E IMAGEN PRINCIPAL",
+      "size": {
+        "width": 370.0,
+        "height": 327.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

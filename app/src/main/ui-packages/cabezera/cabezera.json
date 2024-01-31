@@ -1,0 +1,142 @@
+{
+  "name": "cabezera",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "h4CkmrfwsKcoZ1TLUnb1ti",
+    "node": "39:724",
+    "version": "5069382999",
+    "component-id": "203a332f676d6707eac787da1bb139d4abce6c76"
+  },
+  "default": "CABEZERA",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 2"
+      },
+      {
+        "type": "image",
+        "id": "image 5"
+      },
+      {
+        "type": "image",
+        "id": "image 6"
+      },
+      {
+        "type": "image",
+        "id": "image 7"
+      }
+    ],
+    "modes": {
+      "CABEZERA": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Rectangle 2",
+              "image 5",
+              "image 6",
+              "image 7"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Rectangle 2",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_2.svg"
+          },
+          {
+            "id": "image 5",
+            "margin": {
+              "left": "107.0",
+              "top": "11.0",
+              "right": "107.0",
+              "bottom": "9.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "image_5.png",
+            "scale": "cover"
+          },
+          {
+            "id": "image 6",
+            "margin": {
+              "left": "301.0",
+              "top": "24.0",
+              "right": "19.0",
+              "bottom": "22.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "image_6.png",
+            "scale": "cover"
+          },
+          {
+            "id": "image 7",
+            "margin": {
+              "top": "12.0",
+              "right": "281.0",
+              "bottom": "10.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "image_7.png",
+            "scale": "cover"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "CABEZERA",
+      "size": {
+        "width": 360.0,
+        "height": 90.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}
