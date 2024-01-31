@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable cabezera_image_5
+drawable cabezera_image_6
+drawable cabezera_image_7
+drawable cabezera_rectangle_2
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable portada_boton_jungla
+drawable portada_boton_toplane
+drawable portada_boton_toplane1
+drawable portada_klipartz_1
+drawable portada_klipartz_2
+drawable portada_klipartz_3
+drawable portada_klipartz_4
+drawable t_tulo_e_imagen_principal_image_6
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Actividad1DI
+xml backup_rules
+xml data_extraction_rules

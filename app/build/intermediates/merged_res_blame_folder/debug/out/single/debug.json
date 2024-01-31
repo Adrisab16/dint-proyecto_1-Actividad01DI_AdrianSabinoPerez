@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_portada_klipartz_4.png.flat",
+        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/portada_klipartz_4.png"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-main-47:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-main-47:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_cabezera_image_6.png.flat",
+        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/cabezera_image_6.png"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-main-47:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-main-47:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_t_tulo_e_imagen_principal_image_6.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\t_tulo_e_imagen_principal_image_6.png"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-main-47:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-main-47:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-main-47:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-main-47:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-main-47:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_portada_klipartz_2.png.flat",
+        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/portada_klipartz_2.png"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-main-47:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_portada_boton_jungla.xml.flat",
+        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/portada_boton_jungla.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-main-47:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_portada_klipartz_3.png.flat",
+        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/portada_klipartz_3.png"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-main-47:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_cabezera_image_5.png.flat",
+        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/cabezera_image_5.png"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-main-47:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_portada_boton_toplane1.xml.flat",
+        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/portada_boton_toplane1.xml"
+    },
+    {
+        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_portada_boton_toplane.xml.flat",
+        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/portada_boton_toplane.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-main-47:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_cabezera_rectangle_2.xml.flat",
+        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/cabezera_rectangle_2.xml"
+    },
+    {
+        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_cabezera_image_7.png.flat",
+        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/cabezera_image_7.png"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-main-47:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-main-47:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_portada_klipartz_1.png.flat",
+        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/portada_klipartz_1.png"
+    }
+]
