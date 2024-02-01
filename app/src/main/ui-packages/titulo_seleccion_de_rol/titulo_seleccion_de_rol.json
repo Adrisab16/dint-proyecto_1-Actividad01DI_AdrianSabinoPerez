@@ -1,0 +1,95 @@
+{
+  "name": "titulo_seleccion_de_rol",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "h4CkmrfwsKcoZ1TLUnb1ti",
+    "node": "54:1124",
+    "version": "5076475363",
+    "component-id": "8e1c1705bd3fc2ed3bc4e1f28f286a34af45f7d5"
+  },
+  "default": "TITULO SELECCION DE ROL",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "text",
+        "id": "SELECCIÓN DE ROL"
+      }
+    ],
+    "modes": {
+      "TITULO SELECCION DE ROL": {
+        "rules": [
+          {
+            "id": "top_level",
+            "padding": {
+              "top": "10.0",
+              "bottom": "10.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "SELECCIÓN DE ROL"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.10588235294117647"
+            }
+          },
+          {
+            "id": "SELECCIÓN DE ROL",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "300.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "SELECCIÓN DE ROL",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "30.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "TITULO SELECCION DE ROL",
+      "size": {
+        "width": 300.0,
+        "height": 104.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

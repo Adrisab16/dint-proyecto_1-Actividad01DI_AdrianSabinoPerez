@@ -7,6 +7,7 @@ color purple_700
 color teal_200
 color teal_700
 color white
+drawable button_boton_jungla
 drawable cabezera_image_5
 drawable cabezera_image_6
 drawable cabezera_image_7
@@ -21,6 +22,7 @@ drawable portada_klipartz_2
 drawable portada_klipartz_3
 drawable portada_klipartz_4
 drawable t_tulo_e_imagen_principal_image_6
+drawable titulo_seleccion_de_rol_rectangle_107
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name

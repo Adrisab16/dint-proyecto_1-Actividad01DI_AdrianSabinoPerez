@@ -1,0 +1,88 @@
+{
+  "name": "button",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "h4CkmrfwsKcoZ1TLUnb1ti",
+    "node": "42:759",
+    "version": "5076482646",
+    "component-id": "c747474768f33dfaac287038a3ca93b5489cbe7a"
+  },
+  "default": "BUTTON",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "text",
+        "id": "LORE IPSUM"
+      }
+    ],
+    "modes": {
+      "BUTTON": {
+        "rules": [
+          {
+            "id": "top_level",
+            "padding": {
+              "left": "40.0",
+              "top": "14.0",
+              "right": "40.0",
+              "bottom": "14.0"
+            },
+            "border-radius": "20.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "LORE IPSUM"
+            ],
+            "item-spacing": "10.0",
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            }
+          },
+          {
+            "id": "LORE IPSUM",
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "41.66666666666667",
+              "saturation": "0.72",
+              "value": "0.7843137254901961"
+            },
+            "text-content": "LORE IPSUM",
+            "overflow": "visible",
+            "text-align-vertical": "center",
+            "text-size": "18.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "BUTTON",
+      "size": {
+        "width": 205.0,
+        "height": 53.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

@@ -53,6 +53,7 @@ dimen notification_small_icon_size_as_large
 dimen notification_subtext_size
 dimen notification_top_pad
 dimen notification_top_pad_large_text
+drawable button_boton_jungla
 drawable cabezera_image_5
 drawable cabezera_image_6
 drawable cabezera_image_7
@@ -86,6 +87,7 @@ drawable portada_klipartz_2
 drawable portada_klipartz_3
 drawable portada_klipartz_4
 drawable t_tulo_e_imagen_principal_image_6
+drawable titulo_seleccion_de_rol_rectangle_107
 id accessibility_action_clickable_span
 id accessibility_custom_action_0
 id accessibility_custom_action_1
