@@ -1,0 +1,198 @@
+{
+  "name": "boton_back_y_link_a_opgg",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "h4CkmrfwsKcoZ1TLUnb1ti",
+    "node": "42:1303",
+    "version": "5077672412",
+    "component-id": "f30d0f06d75000496ac7ecf5f7ff80136cb31060"
+  },
+  "default": "BOTON BACK Y LINK A OPGG",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "group",
+        "id": "top_level_synth"
+      },
+      {
+        "type": "text",
+        "id": "Aprende más sobre Mordekaiser"
+      },
+      {
+        "type": "text",
+        "id": "Volver"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 5"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 6"
+      }
+    ],
+    "modes": {
+      "BOTON BACK Y LINK A OPGG": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "top_level_synth",
+              "Aprende más sobre Mordekaiser",
+              "Volver"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "top_level_synth",
+            "opacity": "100.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "Rectangle 5",
+              "Rectangle 6"
+            ],
+            "item-spacing": "30.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "Aprende más sobre Mordekaiser",
+            "margin": {
+              "left": "8.0",
+              "top": "8.727294921875",
+              "right": "104.0",
+              "bottom": "7.7575531005859375"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "180.0",
+              "saturation": "0.7686274509803921",
+              "value": "1.0"
+            },
+            "text-content": "Aprende más sobre Mordekaiser",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "12.0",
+            "line-height": "1.14990234375",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Volver",
+            "margin": {
+              "left": "240.0",
+              "top": "9.69696044921875",
+              "right": "2.0",
+              "bottom": "6.7878875732421875"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "180.0",
+              "saturation": "0.7686274509803921",
+              "value": "1.0"
+            },
+            "text-content": "Volver",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "12.0",
+            "line-height": "1.14990234375",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Rectangle 5",
+            "border-radius": "10.0",
+            "tap-handler": "$OpggLink",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "209.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "vector-content": "rectangle_5.svg"
+          },
+          {
+            "id": "Rectangle 6",
+            "border-radius": "10.0",
+            "tap-handler": "$Back button",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "65.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "vector-content": "rectangle_6.svg"
+          }
+        ]
+      }
+    }
+  },
+  "parameters": {
+    "OpggLink": {
+      "data-type": "void-callback",
+      "required": false,
+      "description": ""
+    },
+    "Back button": {
+      "data-type": "void-callback",
+      "required": false,
+      "description": ""
+    }
+  },
+  "previews": [
+    {
+      "design": "BOTON BACK Y LINK A OPGG",
+      "size": {
+        "width": 304.0,
+        "height": 32.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

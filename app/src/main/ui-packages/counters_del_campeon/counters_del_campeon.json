@@ -1,0 +1,283 @@
+{
+  "name": "counters_del_campeon",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "h4CkmrfwsKcoZ1TLUnb1ti",
+    "node": "42:1304",
+    "version": "5077672412",
+    "component-id": "9a7de65277a3e9e0d37d89aae5dceda1888efbfd"
+  },
+  "default": "COUNTERS DEL CAMPEON",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "text",
+        "id": "COUNTERS"
+      },
+      {
+        "type": "group",
+        "id": "Group 8"
+      },
+      {
+        "type": "image",
+        "id": "FIORA"
+      },
+      {
+        "type": "image",
+        "id": "GANGPLANCK"
+      },
+      {
+        "type": "image",
+        "id": "TRYNDAMERE"
+      },
+      {
+        "type": "image",
+        "id": "QUINN"
+      },
+      {
+        "type": "image",
+        "id": "JAX"
+      },
+      {
+        "type": "image",
+        "id": "OLAF"
+      }
+    ],
+    "modes": {
+      "COUNTERS DEL CAMPEON": {
+        "rules": [
+          {
+            "id": "top_level",
+            "padding": {
+              "top": "20.0",
+              "bottom": "20.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "children": [
+              "COUNTERS",
+              "Group 8"
+            ],
+            "item-spacing": "30.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "COUNTERS",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "320.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "COUNTERS",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "20.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Group 8",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "320.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "FIORA",
+              "GANGPLANCK",
+              "TRYNDAMERE",
+              "QUINN",
+              "JAX",
+              "OLAF"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "FIORA",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "image-content": "fiora.png",
+            "scale": "cover"
+          },
+          {
+            "id": "GANGPLANCK",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "56.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "image-content": "gangplanck.png",
+            "scale": "cover"
+          },
+          {
+            "id": "TRYNDAMERE",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "112.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "image-content": "tryndamere.png",
+            "scale": "cover"
+          },
+          {
+            "id": "QUINN",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "168.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "image-content": "quinn.png",
+            "scale": "cover"
+          },
+          {
+            "id": "JAX",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "224.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "image-content": "jax.png",
+            "scale": "cover"
+          },
+          {
+            "id": "OLAF",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "280.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "40.0"
+              }
+            },
+            "image-content": "olaf.png",
+            "scale": "cover"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "COUNTERS DEL CAMPEON",
+      "size": {
+        "width": 320.0,
+        "height": 126.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

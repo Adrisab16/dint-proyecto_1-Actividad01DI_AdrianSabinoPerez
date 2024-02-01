@@ -1,0 +1,185 @@
+{
+  "name": "footer",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "h4CkmrfwsKcoZ1TLUnb1ti",
+    "node": "63:1101",
+    "version": "5077709205",
+    "component-id": "7d866fae8a39bed41f59859fab96e33b91acea6d"
+  },
+  "default": "FOOTER",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "group",
+        "id": "top_level_synth"
+      },
+      {
+        "type": "group",
+        "id": "COMPLETE FOOTER"
+      },
+      {
+        "type": "group",
+        "id": "BACKGROUND FOOTER"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 106"
+      },
+      {
+        "type": "text",
+        "id": "PARA CONTACTAR CONMIGO O SABER MÁS INFORMACIÓN SOBRE EL CREADOR DE LA APLICACIÓN, PULSE EL SIGUIENTE BOTÓN"
+      },
+      {
+        "type": "adin_component",
+        "id": "BUTTON",
+        "key": "button"
+      }
+    ],
+    "modes": {
+      "FOOTER": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "top_level_synth",
+              "COMPLETE FOOTER"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "top_level_synth",
+            "opacity": "100.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "BACKGROUND FOOTER"
+            ],
+            "item-spacing": "10.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "COMPLETE FOOTER",
+            "margin": {
+              "left": "24.133346557617188",
+              "top": "8.0",
+              "right": "24.133407592773438",
+              "bottom": "16.0"
+            },
+            "is-structured": "false",
+            "children": [
+              "PARA CONTACTAR CONMIGO O SABER MÁS INFORMACIÓN SOBRE EL CREADOR DE LA APLICACIÓN, PULSE EL SIGUIENTE BOTÓN",
+              "BUTTON"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "BACKGROUND FOOTER",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "543.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "152.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 106"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Rectangle 106",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_106.svg"
+          },
+          {
+            "id": "PARA CONTACTAR CONMIGO O SABER MÁS INFORMACIÓN SOBRE EL CREADOR DE LA APLICACIÓN, PULSE EL SIGUIENTE BOTÓN",
+            "margin": {
+              "bottom": "56.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "PARA CONTACTAR CONMIGO O SABER MÁS INFORMACIÓN SOBRE EL CREADOR DE LA APLICACIÓN, PULSE EL SIGUIENTE BOTÓN",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "BUTTON",
+            "margin": {
+              "left": "62.36222839355469",
+              "top": "77.5",
+              "right": "63.37101745605469"
+            },
+            "tap-handler": "$AboutMeButton"
+          }
+        ]
+      }
+    }
+  },
+  "parameters": {
+    "AboutMeButton": {
+      "data-type": "void-callback",
+      "required": false,
+      "description": ""
+    }
+  },
+  "previews": [
+    {
+      "design": "FOOTER",
+      "size": {
+        "width": 362.0,
+        "height": 152.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

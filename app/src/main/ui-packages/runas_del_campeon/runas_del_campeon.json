@@ -1,0 +1,619 @@
+{
+  "name": "runas_del_campeon",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "h4CkmrfwsKcoZ1TLUnb1ti",
+    "node": "42:1306",
+    "version": "5077631760",
+    "component-id": "abeb897d2c9e971cb810a124c30a5cc510f1d4d3"
+  },
+  "default": "RUNAS DEL CAMPEON",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "group",
+        "id": "top_level_synth"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 103"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 105"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 102"
+      },
+      {
+        "type": "image",
+        "id": "image 19"
+      },
+      {
+        "type": "image",
+        "id": "image 20"
+      },
+      {
+        "type": "image",
+        "id": "image 21"
+      },
+      {
+        "type": "image",
+        "id": "image 22"
+      },
+      {
+        "type": "image",
+        "id": "image 23"
+      },
+      {
+        "type": "image",
+        "id": "image 24"
+      },
+      {
+        "type": "image",
+        "id": "image 26"
+      },
+      {
+        "type": "image",
+        "id": "image 28"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 100"
+      },
+      {
+        "type": "image",
+        "id": "image 31"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 101"
+      },
+      {
+        "type": "image",
+        "id": "image 30"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 104"
+      },
+      {
+        "type": "image",
+        "id": "image 29"
+      },
+      {
+        "type": "text",
+        "id": "RUNAS MORDEKAISER"
+      },
+      {
+        "type": "image",
+        "id": "image 32"
+      }
+    ],
+    "modes": {
+      "RUNAS DEL CAMPEON": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "top_level_synth",
+              "Rectangle 103",
+              "Rectangle 105",
+              "Rectangle 102",
+              "image 19",
+              "image 20",
+              "image 21",
+              "image 22",
+              "image 23",
+              "image 24",
+              "image 26",
+              "image 28",
+              "Rectangle 100",
+              "image 31",
+              "Rectangle 101",
+              "image 30",
+              "Rectangle 104",
+              "image 29"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "top_level_synth",
+            "opacity": "100.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "children": [
+              "RUNAS MORDEKAISER",
+              "image 32"
+            ],
+            "item-spacing": "22.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "Rectangle 103",
+            "margin": {
+              "left": "136.0",
+              "top": "48.0",
+              "right": "136.0",
+              "bottom": "16.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_103.svg"
+          },
+          {
+            "id": "Rectangle 105",
+            "margin": {
+              "left": "252.0",
+              "top": "48.0",
+              "right": "20.0",
+              "bottom": "16.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_105.svg"
+          },
+          {
+            "id": "Rectangle 102",
+            "margin": {
+              "left": "20.0",
+              "top": "48.0",
+              "right": "252.0",
+              "bottom": "16.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_102.svg"
+          },
+          {
+            "id": "image 19",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-116.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-24.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "image-content": "image_19.png",
+            "scale": "cover"
+          },
+          {
+            "id": "image 20",
+            "border-radius": "30.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-116.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "28.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "image-content": "image_20.png",
+            "scale": "cover"
+          },
+          {
+            "id": "image 21",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-142.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "34.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "20.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "20.0"
+              }
+            },
+            "image-content": "image_21.png",
+            "scale": "cover"
+          },
+          {
+            "id": "image 22",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-116.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "54.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "20.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "20.0"
+              }
+            },
+            "image-content": "image_22.png",
+            "scale": "cover"
+          },
+          {
+            "id": "image 23",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-90.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "34.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "19.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "20.0"
+              }
+            },
+            "image-content": "image_23.png",
+            "scale": "cover"
+          },
+          {
+            "id": "image 24",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-24.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "32.0"
+              }
+            },
+            "image-content": "image_24.png",
+            "scale": "cover"
+          },
+          {
+            "id": "image 26",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "18.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "20.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "20.0"
+              }
+            },
+            "image-content": "image_26.png",
+            "scale": "cover"
+          },
+          {
+            "id": "image 28",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "48.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "20.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "20.0"
+              }
+            },
+            "image-content": "image_28.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Rectangle 100",
+            "border-radius": "20.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "116.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "16.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "vector-content": "rectangle_100.svg"
+          },
+          {
+            "id": "image 31",
+            "border-radius": "20.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "116.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "16.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "image-content": "image_31.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Rectangle 101",
+            "border-radius": "20.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "116.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "40.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "vector-content": "rectangle_101.svg"
+          },
+          {
+            "id": "image 30",
+            "border-radius": "20.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "116.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "40.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "image-content": "image_30.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Rectangle 104",
+            "border-radius": "20.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "116.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-8.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "vector-content": "rectangle_104.svg"
+          },
+          {
+            "id": "image 29",
+            "border-radius": "20.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "116.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-8.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "image-content": "image_29.png",
+            "scale": "cover"
+          },
+          {
+            "id": "RUNAS MORDEKAISER",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "312.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "18.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "RUNAS MORDEKAISER",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "20.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "image 32",
+            "opacity": "0.5",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "360.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "152.0"
+              }
+            },
+            "image-content": "image_32.png",
+            "scale": "cover"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "RUNAS DEL CAMPEON",
+      "size": {
+        "width": 360.0,
+        "height": 192.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

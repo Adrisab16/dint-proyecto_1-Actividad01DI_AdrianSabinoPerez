@@ -1,0 +1,934 @@
+{
+  "name": "champion_cards",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "h4CkmrfwsKcoZ1TLUnb1ti",
+    "node": "54:1043",
+    "version": "5077815397",
+    "component-id": "76e6d5c30db7af2fb67503ea72291392b9475d31"
+  },
+  "default": "CHAMPION CARDS",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "group",
+        "id": "Group 9"
+      },
+      {
+        "type": "group",
+        "id": "Group 10"
+      },
+      {
+        "type": "group",
+        "id": "Group 11"
+      },
+      {
+        "type": "vector",
+        "id": "SETT CARD"
+      },
+      {
+        "type": "vector",
+        "id": "GAREN CARD"
+      },
+      {
+        "type": "vector",
+        "id": "MALPHITE CARD"
+      },
+      {
+        "type": "text",
+        "id": "Sett"
+      },
+      {
+        "type": "text",
+        "id": "Malphite"
+      },
+      {
+        "type": "text",
+        "id": "Garen"
+      },
+      {
+        "type": "image",
+        "id": "SETT"
+      },
+      {
+        "type": "image",
+        "id": "MALPHITE"
+      },
+      {
+        "type": "image",
+        "id": "GAREN"
+      },
+      {
+        "type": "vector",
+        "id": "FIORA CARD"
+      },
+      {
+        "type": "text",
+        "id": "Fiora"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 5"
+      },
+      {
+        "type": "text",
+        "id": "Nasus"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 7"
+      },
+      {
+        "type": "text",
+        "id": "Sion"
+      },
+      {
+        "type": "image",
+        "id": "FIORA"
+      },
+      {
+        "type": "image",
+        "id": "NASUS"
+      },
+      {
+        "type": "image",
+        "id": "SION"
+      },
+      {
+        "type": "vector",
+        "id": "TRUNDLE CARD"
+      },
+      {
+        "type": "vector",
+        "id": "MORDEKIASER CARD"
+      },
+      {
+        "type": "text",
+        "id": "Mordekaiser"
+      },
+      {
+        "type": "text",
+        "id": "Trundle"
+      },
+      {
+        "type": "vector",
+        "id": "JAX CARD"
+      },
+      {
+        "type": "image",
+        "id": "JAX"
+      },
+      {
+        "type": "text",
+        "id": "Jax"
+      },
+      {
+        "type": "image",
+        "id": "TRUNDLE"
+      },
+      {
+        "type": "image",
+        "id": "MORDEKAISER"
+      }
+    ],
+    "modes": {
+      "CHAMPION CARDS": {
+        "rules": [
+          {
+            "id": "top_level",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "start",
+            "children": [
+              "Group 9",
+              "Group 10",
+              "Group 11"
+            ],
+            "item-spacing": "52.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 9",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "296.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "128.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "SETT CARD",
+              "GAREN CARD",
+              "MALPHITE CARD",
+              "Sett",
+              "Malphite",
+              "Garen",
+              "SETT",
+              "MALPHITE",
+              "GAREN"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 10",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "296.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "128.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "FIORA CARD",
+              "Fiora",
+              "Rectangle 5",
+              "Nasus",
+              "Rectangle 7",
+              "Sion",
+              "FIORA",
+              "NASUS",
+              "SION"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 11",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "296.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "128.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "TRUNDLE CARD",
+              "MORDEKIASER CARD",
+              "Mordekaiser",
+              "Trundle",
+              "JAX CARD",
+              "JAX",
+              "Jax",
+              "TRUNDLE",
+              "MORDEKAISER"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "SETT CARD",
+            "margin": {
+              "left": "108.0",
+              "right": "108.0"
+            },
+            "tap-handler": "$SettCard",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "sett_card.svg"
+          },
+          {
+            "id": "GAREN CARD",
+            "margin": {
+              "right": "216.0"
+            },
+            "tap-handler": "$GarenCard",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "garen_card.svg"
+          },
+          {
+            "id": "MALPHITE CARD",
+            "margin": {
+              "left": "216.0"
+            },
+            "tap-handler": "$MalphiteCard",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "malphite_card.svg"
+          },
+          {
+            "id": "Sett",
+            "margin": {
+              "left": "109.0",
+              "top": "102.0",
+              "right": "107.0",
+              "bottom": "15.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "17.971014492753625",
+              "saturation": "0.8483606557377049",
+              "value": "0.9568627450980393"
+            },
+            "text-content": "Sett",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "12.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Malphite",
+            "margin": {
+              "left": "216.0",
+              "top": "100.0",
+              "bottom": "16.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "15.428571428571427",
+              "saturation": "0.5645161290322581",
+              "value": "0.24313725490196078"
+            },
+            "text-content": "Malphite",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "12.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Garen",
+            "margin": {
+              "top": "99.0",
+              "right": "216.0",
+              "bottom": "13.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "43.125",
+              "saturation": "0.7741935483870968",
+              "value": "0.9725490196078431"
+            },
+            "text-content": "Garen",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "SETT",
+            "margin": {
+              "left": "108.0",
+              "right": "108.0",
+              "bottom": "40.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "sett.png",
+            "scale": "cover"
+          },
+          {
+            "id": "MALPHITE",
+            "margin": {
+              "left": "216.0",
+              "bottom": "40.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "malphite.png",
+            "scale": "cover"
+          },
+          {
+            "id": "GAREN",
+            "margin": {
+              "right": "216.0",
+              "bottom": "40.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "garen.png",
+            "scale": "cover"
+          },
+          {
+            "id": "FIORA CARD",
+            "margin": {
+              "right": "216.0"
+            },
+            "tap-handler": "$FioraCard",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "fiora_card.svg"
+          },
+          {
+            "id": "Fiora",
+            "margin": {
+              "top": "99.0",
+              "right": "216.0",
+              "bottom": "13.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "345.3333333333333",
+              "saturation": "0.8144796380090498",
+              "value": "0.8666666666666667"
+            },
+            "text-content": "Fiora",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Rectangle 5",
+            "margin": {
+              "left": "108.0",
+              "right": "108.0"
+            },
+            "tap-handler": "$NasusCard",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_5.svg"
+          },
+          {
+            "id": "Nasus",
+            "margin": {
+              "left": "109.0",
+              "top": "102.0",
+              "right": "107.0",
+              "bottom": "15.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "284.5508982035928",
+              "saturation": "0.8697916666666666",
+              "value": "0.7529411764705882"
+            },
+            "text-content": "Nasus",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "12.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Rectangle 7",
+            "margin": {
+              "left": "216.0"
+            },
+            "tap-handler": "$SionCard",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_7.svg"
+          },
+          {
+            "id": "Sion",
+            "margin": {
+              "left": "216.0",
+              "top": "100.0",
+              "bottom": "16.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "1.0",
+              "value": "0.6509803921568628"
+            },
+            "text-content": "Sion",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "12.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "FIORA",
+            "margin": {
+              "right": "216.0",
+              "bottom": "40.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "fiora.png",
+            "scale": "cover"
+          },
+          {
+            "id": "NASUS",
+            "margin": {
+              "left": "108.0",
+              "right": "108.0",
+              "bottom": "40.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "nasus.png",
+            "scale": "cover"
+          },
+          {
+            "id": "SION",
+            "margin": {
+              "left": "216.0",
+              "bottom": "40.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "sion.png",
+            "scale": "cover"
+          },
+          {
+            "id": "TRUNDLE CARD",
+            "margin": {
+              "left": "108.0",
+              "right": "108.0"
+            },
+            "tap-handler": "$TrundleCard",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "trundle_card.svg"
+          },
+          {
+            "id": "MORDEKIASER CARD",
+            "margin": {
+              "right": "216.0"
+            },
+            "tap-handler": "$MordeCard",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "mordekiaser_card.svg"
+          },
+          {
+            "id": "Mordekaiser",
+            "margin": {
+              "top": "99.0",
+              "right": "216.0",
+              "bottom": "13.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "158.33333333333334",
+              "saturation": "0.72",
+              "value": "0.7843137254901961"
+            },
+            "text-content": "Mordekaiser",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Trundle",
+            "margin": {
+              "left": "109.0",
+              "top": "102.0",
+              "right": "107.0",
+              "bottom": "15.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "165.33333333333334",
+              "saturation": "1.0",
+              "value": "0.7058823529411765"
+            },
+            "text-content": "Trundle",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "12.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "JAX CARD",
+            "margin": {
+              "left": "216.0"
+            },
+            "tap-handler": "$JaxCard",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "jax_card.svg"
+          },
+          {
+            "id": "JAX",
+            "margin": {
+              "left": "216.0",
+              "bottom": "40.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "jax.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Jax",
+            "margin": {
+              "left": "216.0",
+              "top": "100.0",
+              "bottom": "16.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "266.4179104477612",
+              "saturation": "1.0",
+              "value": "0.5254901960784314"
+            },
+            "text-content": "Jax",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "12.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "TRUNDLE",
+            "margin": {
+              "left": "108.0",
+              "right": "108.0",
+              "bottom": "40.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "trundle.png",
+            "scale": "cover"
+          },
+          {
+            "id": "MORDEKAISER",
+            "margin": {
+              "right": "216.0",
+              "bottom": "40.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "mordekaiser.png",
+            "scale": "cover"
+          }
+        ]
+      }
+    }
+  },
+  "parameters": {
+    "SettCard": {
+      "data-type": "void-callback",
+      "required": false,
+      "description": ""
+    },
+    "GarenCard": {
+      "data-type": "void-callback",
+      "required": false,
+      "description": ""
+    },
+    "MalphiteCard": {
+      "data-type": "void-callback",
+      "required": false,
+      "description": ""
+    },
+    "FioraCard": {
+      "data-type": "void-callback",
+      "required": false,
+      "description": ""
+    },
+    "NasusCard": {
+      "data-type": "void-callback",
+      "required": false,
+      "description": ""
+    },
+    "SionCard": {
+      "data-type": "void-callback",
+      "required": false,
+      "description": ""
+    },
+    "TrundleCard": {
+      "data-type": "void-callback",
+      "required": false,
+      "description": ""
+    },
+    "MordeCard": {
+      "data-type": "void-callback",
+      "required": false,
+      "description": ""
+    },
+    "JaxCard": {
+      "data-type": "void-callback",
+      "required": false,
+      "description": ""
+    }
+  },
+  "previews": [
+    {
+      "design": "CHAMPION CARDS",
+      "size": {
+        "width": 296.0,
+        "height": 488.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}
