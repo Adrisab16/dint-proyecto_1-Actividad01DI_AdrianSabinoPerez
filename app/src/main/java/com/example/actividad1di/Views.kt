@@ -114,7 +114,7 @@ fun SeleccionRolView(){
                     .padding(start = 100.dp)
                     .width(200.dp)
                     .height(60.dp)
-                ) { Text(text = "TOPLANE") }
+            ) { Text(text = "TOPLANE") }
         }
         Row {
             androidx.compose.material3.Button(onClick = {buttonClick = 5},
@@ -144,13 +144,13 @@ fun SeleccionRolView(){
             ) { Text(text = "BOTLANE") }
         }
         Row {
-            androidx.compose.material3.Button(onClick = {buttonClick = 8},
+            androidx.compose.material3.Button(onClick = {buttonClick = 0},
                 modifier = Modifier
                     .padding(top = 65.dp)
                     .padding(start = 100.dp)
                     .width(200.dp)
                     .height(60.dp)
-            ) { Text(text = "SUPPORT") }
+            ) { Text(text = "Volver") }
         }
     }
     when(buttonClick){
@@ -176,16 +176,24 @@ fun InfoTop(){
         Row {
             androidx.compose.material3.Button(onClick = { buttonClick = 5 },
                 modifier = Modifier
-                    .padding(top = 100.dp)
+                    .padding(top = 80.dp)
                     .padding(bottom = 100.dp)
                     .padding(start = 110.dp)
                     .width(200.dp)
                     .height(50.dp)) { Text(text = "CAMPEONES TOPLANE") }
         }
+        Row {
+            androidx.compose.material3.Button(onClick = { buttonClick = 3 },
+                modifier = Modifier
+                    .padding(top = 10.dp)
+                    .width(200.dp)
+                    .height(50.dp)) { Text(text = "Volver") }
+        }
         Row { ButtonFooter(modifier = Modifier.fillMaxWidth())}
     }
     when(buttonClick){
         5->{Nav(5)}
+        3->{Nav(3)}
     }
 }
 
@@ -202,6 +210,24 @@ fun seleccionCampeonTop(){
         Row { ChampionCards(modifier = Modifier
             .padding(top = 85.dp)
             .padding(start = 60.dp)) }
+        Row {
+            androidx.compose.material3.Button(onClick = { buttonClick = 6 }, modifier = Modifier
+                .padding(top = 10.dp)
+                .padding(start = 70.dp)) {
+                Text(text = "Ver ficha Mordekaiser")
+            }
+            Row {
+                androidx.compose.material3.Button(onClick = { buttonClick = 4 },modifier = Modifier
+                    .padding(top = 10.dp)
+                    .padding(start = 10.dp)) {
+                    Text(text = "Volver")
+                }
+            }
+        }
+    }
+    when(buttonClick){
+        4-> {Nav(4)}
+        6-> {Nav(6)}
     }
 }
 
@@ -209,6 +235,7 @@ fun seleccionCampeonTop(){
 fun InfoMordekaiser(){
     var buttonClick by remember { mutableIntStateOf(0) }
     val background = BackgroundFichaCampeon()
+    background
     LazyColumn {
         item {
             Cabezera(modifier = Modifier.fillMaxWidth())
@@ -235,21 +262,19 @@ fun InfoMordekaiser(){
                 .padding(top = 20.dp))
         }
         item{
-            BotonBackYLinkAOpgg(modifier = Modifier
-                .padding(top = 20.dp)
-                .padding(start = 100.dp))
-        }
-        item{
             Footer(modifier = Modifier
                 .padding(top = 20.dp)
                 .fillMaxWidth())
+            Row {
+                androidx.compose.material3.Button(onClick = { buttonClick = 5 },modifier = Modifier
+                    .padding(top = 10.dp)
+                    .padding(start = 10.dp)) {
+                    Text(text = "Volver")
+                }
+            }
         }
     }
+    when(buttonClick){
+        5-> {Nav(5)}
+    }
 }
-
-
-
-
-// Redimensionado mal, val cannot be reassigned, funcion boton
-
-// Scroll vertical, superposicion de paginas y boton dentro de un layout (como se activa), desposicion en figma, error orden de habiliades
