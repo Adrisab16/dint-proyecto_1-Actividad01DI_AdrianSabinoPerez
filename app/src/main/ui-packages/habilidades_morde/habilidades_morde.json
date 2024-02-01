@@ -1,0 +1,397 @@
+{
+  "name": "habilidades_morde",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "h4CkmrfwsKcoZ1TLUnb1ti",
+    "node": "97:197",
+    "version": "5077268151",
+    "component-id": "258603f64a4d51241a3574c216f35f341ad58d6b"
+  },
+  "default": "HabilidadesMorde",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "text",
+        "id": "HABILIDADES"
+      },
+      {
+        "type": "image",
+        "id": "image 7"
+      },
+      {
+        "type": "image",
+        "id": "image 8"
+      },
+      {
+        "type": "image",
+        "id": "image 10"
+      },
+      {
+        "type": "text",
+        "id": "Q"
+      },
+      {
+        "type": "text",
+        "id": "W"
+      },
+      {
+        "type": "text",
+        "id": "E"
+      },
+      {
+        "type": "text",
+        "id": "R"
+      },
+      {
+        "type": "image",
+        "id": "image 9"
+      },
+      {
+        "type": "image",
+        "id": "image 33"
+      },
+      {
+        "type": "text",
+        "id": "P"
+      }
+    ],
+    "modes": {
+      "HabilidadesMorde": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "HABILIDADES",
+              "image 7",
+              "image 8",
+              "image 10",
+              "Q",
+              "W",
+              "E",
+              "R",
+              "image 9",
+              "image 33",
+              "P"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "HABILIDADES",
+            "margin": {
+              "left": "83.0",
+              "right": "84.69137573242188",
+              "bottom": "104.30299949645996"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "HABILIDADES",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "20.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "image 7",
+            "margin": {
+              "left": "74.881103515625",
+              "top": "66.1212158203125",
+              "right": "210.93246459960938",
+              "bottom": "25.454509735107422"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "image_7.png",
+            "scale": "cover"
+          },
+          {
+            "id": "image 8",
+            "margin": {
+              "left": "208.8232421875",
+              "top": "66.1212158203125",
+              "right": "76.99032592773438",
+              "bottom": "25.454509735107422"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "image_8.png",
+            "scale": "cover"
+          },
+          {
+            "id": "image 10",
+            "margin": {
+              "left": "277.3759765625",
+              "top": "66.1212158203125",
+              "right": "8.437591552734375",
+              "bottom": "25.454509735107422"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "image_10.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Q",
+            "margin": {
+              "left": "66.44384765625",
+              "top": "117.0302734375",
+              "right": "202.49512100219727"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "223.29411764705884",
+              "saturation": "1.0",
+              "value": "1.0"
+            },
+            "text-content": "Q",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "12.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "W",
+            "margin": {
+              "left": "133.942138671875",
+              "top": "117.0302734375",
+              "right": "134.99682998657227"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "158.26530612244898",
+              "saturation": "0.8448275862068965",
+              "value": "0.9098039215686274"
+            },
+            "text-content": "W",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "12.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "E",
+            "margin": {
+              "left": "201.4404296875",
+              "top": "117.0302734375",
+              "right": "67.49853897094727"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "21.581027667984184",
+              "saturation": "0.9921568627450981",
+              "value": "1.0"
+            },
+            "text-content": "E",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "12.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "R",
+            "margin": {
+              "left": "268.93896484375",
+              "top": "117.0302734375",
+              "right": "0.000003814697265625"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "R",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "12.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "image 9",
+            "margin": {
+              "left": "142.37939453125",
+              "top": "66.1212158203125",
+              "right": "143.43417358398438",
+              "bottom": "25.454509735107422"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "image_9.png",
+            "scale": "cover"
+          },
+          {
+            "id": "image 33",
+            "margin": {
+              "left": "7.3828125",
+              "top": "66.1212158203125",
+              "right": "278.4307556152344",
+              "bottom": "25.454509735107422"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "image_33.png",
+            "scale": "cover"
+          },
+          {
+            "id": "P",
+            "margin": {
+              "top": "117.0302734375",
+              "right": "269.9936294555664"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "270.0",
+              "saturation": "1.0",
+              "value": "0.5333333333333333"
+            },
+            "text-content": "P",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "12.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "HabilidadesMorde",
+      "size": {
+        "width": 328.00006103515625,
+        "height": 133.99996948242188
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

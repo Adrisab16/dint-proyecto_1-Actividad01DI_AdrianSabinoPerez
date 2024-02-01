@@ -1,0 +1,167 @@
+{
+  "name": "info_lanes",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "h4CkmrfwsKcoZ1TLUnb1ti",
+    "node": "51:2358",
+    "version": "5076911106",
+    "component-id": "7584b18aa6382d424900b815492222dd004169dd"
+  },
+  "default": "INFO LANES",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "group",
+        "id": "top_level_synth"
+      },
+      {
+        "type": "text",
+        "id": "TOPLANE"
+      },
+      {
+        "type": "text",
+        "id": "Infotxt"
+      },
+      {
+        "type": "image",
+        "id": "image 40"
+      }
+    ],
+    "modes": {
+      "INFO LANES": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "top_level_synth",
+              "TOPLANE",
+              "Infotxt"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "top_level_synth",
+            "opacity": "100.0",
+            "padding": {
+              "top": "20.0",
+              "bottom": "20.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "arrangement": "row",
+            "children": [
+              "image 40"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "TOPLANE",
+            "margin": {
+              "left": "130.466796875",
+              "right": "131.13320922851562",
+              "bottom": "431.6055030822754"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "TOPLANE",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "30.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Infotxt",
+            "margin": {
+              "left": "130.800048828125",
+              "top": "82.3165283203125",
+              "right": "130.79995727539062",
+              "bottom": "22.2476806640625"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "El TOP es una posición solitaria, se juega en la línea superior del mapa y generalmente deben estar apartados del equipo. Comúnmente como Top laner solamente nos reuniremos con nuestro equipo después de que derrumbemos la torre que se encuentra delante de nosotros, con nuestro team reunido decidiremos lo que haremos a continuación para poder intentar llegar al nexo enemigo para así conseguir finalmente la victoria.\n\nAlgunos ejemplos de campeones estrella en esta linea son: Mordekaiser, Fiora, Malphite, Sett, etc.\n\nAdentrate en la toplane pulsando el siguiente botón:",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-size": "13.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "image 40",
+            "opacity": "0.30000001192092896",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "545.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "445.0"
+              }
+            },
+            "image-content": "image_40.png",
+            "scale": "cover"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "INFO LANES",
+      "size": {
+        "width": 545.0,
+        "height": 485.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

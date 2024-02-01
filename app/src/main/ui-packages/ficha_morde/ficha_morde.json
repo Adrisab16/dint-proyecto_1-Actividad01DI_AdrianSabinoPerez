@@ -1,0 +1,73 @@
+{
+  "name": "ficha_morde",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "h4CkmrfwsKcoZ1TLUnb1ti",
+    "node": "96:1787",
+    "version": "5077147652",
+    "component-id": "d89a40113712875f61a2be58450f139fe52dad67"
+  },
+  "default": "FichaMorde",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "adin_component",
+        "id": "TÍTULO E IMAGEN PRINCIPAL",
+        "key": "t_tulo_e_imagen_principal"
+      }
+    ],
+    "modes": {
+      "FichaMorde": {
+        "rules": [
+          {
+            "id": "top_level",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "children": [
+              "TÍTULO E IMAGEN PRINCIPAL"
+            ],
+            "item-spacing": "10.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "TÍTULO E IMAGEN PRINCIPAL",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "370.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "327.0"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "FichaMorde",
+      "size": {
+        "width": 370.0,
+        "height": 327.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

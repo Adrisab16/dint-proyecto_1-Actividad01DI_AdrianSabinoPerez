@@ -1,0 +1,2011 @@
+{
+  "name": "orden_habilidades_del_campeon",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "h4CkmrfwsKcoZ1TLUnb1ti",
+    "node": "42:1307",
+    "version": "5077443166",
+    "component-id": "5d0a91b9895ad2a519cb72213cc44df86e948ad9"
+  },
+  "default": "ORDEN HABILIDADES DEL CAMPEON",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "text",
+        "id": "ORDEN DE HABILIDADES"
+      },
+      {
+        "type": "group",
+        "id": "Group 4"
+      },
+      {
+        "type": "group",
+        "id": "Group 5"
+      },
+      {
+        "type": "image",
+        "id": "HABILIDAD Q"
+      },
+      {
+        "type": "image",
+        "id": "HABILIDAD W"
+      },
+      {
+        "type": "image",
+        "id": "HABILIDAD E"
+      },
+      {
+        "type": "text",
+        "id": ">"
+      },
+      {
+        "type": "text",
+        "id": ">1"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 57"
+      },
+      {
+        "type": "text",
+        "id": "Q"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 58"
+      },
+      {
+        "type": "text",
+        "id": "E"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 59"
+      },
+      {
+        "type": "text",
+        "id": "W"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 60"
+      },
+      {
+        "type": "text",
+        "id": "Q1"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 61"
+      },
+      {
+        "type": "text",
+        "id": "Q2"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 62"
+      },
+      {
+        "type": "text",
+        "id": "R"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 63"
+      },
+      {
+        "type": "text",
+        "id": "Q3"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 87"
+      },
+      {
+        "type": "text",
+        "id": "E1"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 88"
+      },
+      {
+        "type": "text",
+        "id": "E2"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 65"
+      },
+      {
+        "type": "text",
+        "id": "Q4"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 89"
+      },
+      {
+        "type": "text",
+        "id": "E3"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 90"
+      },
+      {
+        "type": "text",
+        "id": "E4"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 75"
+      },
+      {
+        "type": "text",
+        "id": "R1"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 76"
+      },
+      {
+        "type": "text",
+        "id": "R2"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 91"
+      },
+      {
+        "type": "text",
+        "id": "E5"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 92"
+      },
+      {
+        "type": "text",
+        "id": "E6"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 94"
+      },
+      {
+        "type": "text",
+        "id": "E7"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 95"
+      },
+      {
+        "type": "text",
+        "id": "E8"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 96"
+      },
+      {
+        "type": "text",
+        "id": "E9"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 80"
+      },
+      {
+        "type": "text",
+        "id": "W1"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 79"
+      },
+      {
+        "type": "text",
+        "id": "W2"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 77"
+      },
+      {
+        "type": "text",
+        "id": "W3"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 81"
+      },
+      {
+        "type": "text",
+        "id": "W4"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 98"
+      },
+      {
+        "type": "text",
+        "id": "R3"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 97"
+      },
+      {
+        "type": "text",
+        "id": "R4"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 84"
+      },
+      {
+        "type": "text",
+        "id": "W5"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 78"
+      },
+      {
+        "type": "text",
+        "id": "W6"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 85"
+      },
+      {
+        "type": "text",
+        "id": "W7"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 86"
+      },
+      {
+        "type": "text",
+        "id": "W8"
+      }
+    ],
+    "modes": {
+      "ORDEN HABILIDADES DEL CAMPEON": {
+        "rules": [
+          {
+            "id": "top_level",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "children": [
+              "ORDEN DE HABILIDADES",
+              "Group 4",
+              "Group 5"
+            ],
+            "item-spacing": "34.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "ORDEN DE HABILIDADES",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "320.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "18.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "ORDEN DE HABILIDADES",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "20.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Group 4",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "280.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "56.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "HABILIDAD Q",
+              "HABILIDAD W",
+              "HABILIDAD E",
+              ">",
+              ">1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 5",
+            "border-radius": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "306.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "16.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Rectangle 57",
+              "Q",
+              "Rectangle 58",
+              "E",
+              "Rectangle 59",
+              "W",
+              "Rectangle 60",
+              "Q1",
+              "Rectangle 61",
+              "Q2",
+              "Rectangle 62",
+              "R",
+              "Rectangle 63",
+              "Q3",
+              "Rectangle 87",
+              "E1",
+              "Rectangle 88",
+              "E2",
+              "Rectangle 65",
+              "Q4",
+              "Rectangle 89",
+              "E3",
+              "Rectangle 90",
+              "E4",
+              "Rectangle 75",
+              "R1",
+              "Rectangle 76",
+              "R2",
+              "Rectangle 91",
+              "E5",
+              "Rectangle 92",
+              "E6",
+              "Rectangle 94",
+              "E7",
+              "Rectangle 95",
+              "E8",
+              "Rectangle 96",
+              "E9",
+              "Rectangle 80",
+              "W1",
+              "Rectangle 79",
+              "W2",
+              "Rectangle 77",
+              "W3",
+              "Rectangle 81",
+              "W4",
+              "Rectangle 98",
+              "R3",
+              "Rectangle 97",
+              "R4",
+              "Rectangle 84",
+              "W5",
+              "Rectangle 78",
+              "W6",
+              "Rectangle 85",
+              "W7",
+              "Rectangle 86",
+              "W8"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "HABILIDAD Q",
+            "margin": {
+              "right": "224.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "habilidad_q.png",
+            "scale": "cover"
+          },
+          {
+            "id": "HABILIDAD W",
+            "margin": {
+              "left": "112.0",
+              "right": "112.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "habilidad_w.png",
+            "scale": "cover"
+          },
+          {
+            "id": "HABILIDAD E",
+            "margin": {
+              "left": "224.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "habilidad_e.png",
+            "scale": "cover"
+          },
+          {
+            "id": ">",
+            "margin": {
+              "left": "176.0",
+              "top": "8.0",
+              "right": "64.0",
+              "bottom": "8.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": ">",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "15.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": ">1",
+            "margin": {
+              "left": "64.0",
+              "top": "8.0",
+              "right": "176.0",
+              "bottom": "8.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": ">",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "15.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Rectangle 57",
+            "margin": {
+              "right": "290.0"
+            },
+            "border-radius": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_57.svg"
+          },
+          {
+            "id": "Q",
+            "margin": {
+              "right": "290.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "223.29411764705884",
+              "saturation": "1.0",
+              "value": "1.0"
+            },
+            "text-content": "Q",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Rectangle 58",
+            "margin": {
+              "left": "17.0",
+              "right": "273.0"
+            },
+            "border-radius": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_58.svg"
+          },
+          {
+            "id": "E",
+            "margin": {
+              "left": "17.0",
+              "right": "273.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "21.581027667984184",
+              "saturation": "0.9921568627450981",
+              "value": "1.0"
+            },
+            "text-content": "E",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Rectangle 59",
+            "margin": {
+              "left": "34.0",
+              "right": "256.0"
+            },
+            "border-radius": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_59.svg"
+          },
+          {
+            "id": "W",
+            "margin": {
+              "left": "34.0",
+              "right": "256.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "158.26530612244898",
+              "saturation": "0.8448275862068965",
+              "value": "0.9098039215686274"
+            },
+            "text-content": "W",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Rectangle 60",
+            "margin": {
+              "left": "51.0",
+              "right": "239.0"
+            },
+            "border-radius": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_60.svg"
+          },
+          {
+            "id": "Q1",
+            "margin": {
+              "left": "51.0",
+              "right": "239.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "223.29411764705884",
+              "saturation": "1.0",
+              "value": "1.0"
+            },
+            "text-content": "Q",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Rectangle 61",
+            "margin": {
+              "left": "68.0",
+              "right": "222.0"
+            },
+            "border-radius": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_61.svg"
+          },
+          {
+            "id": "Q2",
+            "margin": {
+              "left": "68.0",
+              "right": "222.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "223.29411764705884",
+              "saturation": "1.0",
+              "value": "1.0"
+            },
+            "text-content": "Q",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Rectangle 62",
+            "margin": {
+              "left": "85.0",
+              "right": "205.0"
+            },
+            "border-radius": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_62.svg"
+          },
+          {
+            "id": "R",
+            "margin": {
+              "left": "85.0",
+              "right": "205.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "R",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Rectangle 63",
+            "margin": {
+              "left": "102.0",
+              "right": "188.0"
+            },
+            "border-radius": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_63.svg"
+          },
+          {
+            "id": "Q3",
+            "margin": {
+              "left": "102.0",
+              "right": "188.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "223.29411764705884",
+              "saturation": "1.0",
+              "value": "1.0"
+            },
+            "text-content": "Q",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Rectangle 87",
+            "margin": {
+              "left": "119.0",
+              "right": "171.0"
+            },
+            "border-radius": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_87.svg"
+          },
+          {
+            "id": "E1",
+            "margin": {
+              "left": "119.0",
+              "right": "171.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "21.581027667984184",
+              "saturation": "0.9921568627450981",
+              "value": "1.0"
+            },
+            "text-content": "E",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Rectangle 88",
+            "margin": {
+              "left": "119.0",
+              "right": "171.0"
+            },
+            "border-radius": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_88.svg"
+          },
+          {
+            "id": "E2",
+            "margin": {
+              "left": "119.0",
+              "right": "171.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "21.581027667984184",
+              "saturation": "0.9921568627450981",
+              "value": "1.0"
+            },
+            "text-content": "E",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Rectangle 65",
+            "margin": {
+              "left": "137.0",
+              "right": "153.0"
+            },
+            "border-radius": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_65.svg"
+          },
+          {
+            "id": "Q4",
+            "margin": {
+              "left": "137.0",
+              "right": "153.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "223.29411764705884",
+              "saturation": "1.0",
+              "value": "1.0"
+            },
+            "text-content": "Q",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Rectangle 89",
+            "margin": {
+              "left": "154.0",
+              "right": "136.0"
+            },
+            "border-radius": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_89.svg"
+          },
+          {
+            "id": "E3",
+            "margin": {
+              "left": "154.0",
+              "right": "136.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "21.581027667984184",
+              "saturation": "0.9921568627450981",
+              "value": "1.0"
+            },
+            "text-content": "E",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Rectangle 90",
+            "margin": {
+              "left": "154.0",
+              "right": "136.0"
+            },
+            "border-radius": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_90.svg"
+          },
+          {
+            "id": "E4",
+            "margin": {
+              "left": "154.0",
+              "right": "136.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "21.581027667984184",
+              "saturation": "0.9921568627450981",
+              "value": "1.0"
+            },
+            "text-content": "E",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Rectangle 75",
+            "margin": {
+              "left": "171.0",
+              "right": "119.0"
+            },
+            "border-radius": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_75.svg"
+          },
+          {
+            "id": "R1",
+            "margin": {
+              "left": "171.0",
+              "right": "119.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "R",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Rectangle 76",
+            "margin": {
+              "left": "171.0",
+              "right": "119.0"
+            },
+            "border-radius": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_76.svg"
+          },
+          {
+            "id": "R2",
+            "margin": {
+              "left": "171.0",
+              "right": "119.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "R",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Rectangle 91",
+            "margin": {
+              "left": "188.0",
+              "right": "102.0"
+            },
+            "border-radius": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_91.svg"
+          },
+          {
+            "id": "E5",
+            "margin": {
+              "left": "188.0",
+              "right": "102.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "21.581027667984184",
+              "saturation": "0.9921568627450981",
+              "value": "1.0"
+            },
+            "text-content": "E",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Rectangle 92",
+            "margin": {
+              "left": "188.0",
+              "right": "102.0"
+            },
+            "border-radius": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_92.svg"
+          },
+          {
+            "id": "E6",
+            "margin": {
+              "left": "188.0",
+              "right": "102.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "21.581027667984184",
+              "saturation": "0.9921568627450981",
+              "value": "1.0"
+            },
+            "text-content": "E",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Rectangle 94",
+            "margin": {
+              "left": "205.0",
+              "right": "85.0"
+            },
+            "border-radius": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_94.svg"
+          },
+          {
+            "id": "E7",
+            "margin": {
+              "left": "205.0",
+              "right": "85.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "21.581027667984184",
+              "saturation": "0.9921568627450981",
+              "value": "1.0"
+            },
+            "text-content": "E",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Rectangle 95",
+            "margin": {
+              "left": "205.0",
+              "right": "85.0"
+            },
+            "border-radius": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_95.svg"
+          },
+          {
+            "id": "E8",
+            "margin": {
+              "left": "205.0",
+              "right": "85.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "21.581027667984184",
+              "saturation": "0.9921568627450981",
+              "value": "1.0"
+            },
+            "text-content": "E",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Rectangle 96",
+            "margin": {
+              "left": "205.0",
+              "right": "85.0"
+            },
+            "border-radius": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_96.svg"
+          },
+          {
+            "id": "E9",
+            "margin": {
+              "left": "205.0",
+              "right": "85.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "21.581027667984184",
+              "saturation": "0.9921568627450981",
+              "value": "1.0"
+            },
+            "text-content": "E",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Rectangle 80",
+            "margin": {
+              "left": "222.0",
+              "right": "68.0"
+            },
+            "border-radius": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_80.svg"
+          },
+          {
+            "id": "W1",
+            "margin": {
+              "left": "222.0",
+              "right": "68.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "158.26530612244898",
+              "saturation": "0.8448275862068965",
+              "value": "0.9098039215686274"
+            },
+            "text-content": "W",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Rectangle 79",
+            "margin": {
+              "left": "222.0",
+              "right": "68.0"
+            },
+            "border-radius": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_79.svg"
+          },
+          {
+            "id": "W2",
+            "margin": {
+              "left": "222.0",
+              "right": "68.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "158.26530612244898",
+              "saturation": "0.8448275862068965",
+              "value": "0.9098039215686274"
+            },
+            "text-content": "W",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Rectangle 77",
+            "margin": {
+              "left": "239.0",
+              "right": "51.0"
+            },
+            "border-radius": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_77.svg"
+          },
+          {
+            "id": "W3",
+            "margin": {
+              "left": "239.0",
+              "right": "51.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "158.26530612244898",
+              "saturation": "0.8448275862068965",
+              "value": "0.9098039215686274"
+            },
+            "text-content": "W",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Rectangle 81",
+            "margin": {
+              "left": "239.0",
+              "right": "51.0"
+            },
+            "border-radius": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_81.svg"
+          },
+          {
+            "id": "W4",
+            "margin": {
+              "left": "239.0",
+              "right": "51.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "158.26530612244898",
+              "saturation": "0.8448275862068965",
+              "value": "0.9098039215686274"
+            },
+            "text-content": "W",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Rectangle 98",
+            "margin": {
+              "left": "256.0",
+              "right": "34.0"
+            },
+            "border-radius": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_98.svg"
+          },
+          {
+            "id": "R3",
+            "margin": {
+              "left": "256.0",
+              "right": "34.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "R",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Rectangle 97",
+            "margin": {
+              "left": "256.0",
+              "right": "34.0"
+            },
+            "border-radius": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_97.svg"
+          },
+          {
+            "id": "R4",
+            "margin": {
+              "left": "256.0",
+              "right": "34.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "R",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Rectangle 84",
+            "margin": {
+              "left": "273.0",
+              "right": "17.0"
+            },
+            "border-radius": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_84.svg"
+          },
+          {
+            "id": "W5",
+            "margin": {
+              "left": "273.0",
+              "right": "17.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "158.26530612244898",
+              "saturation": "0.8448275862068965",
+              "value": "0.9098039215686274"
+            },
+            "text-content": "W",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Rectangle 78",
+            "margin": {
+              "left": "273.0",
+              "right": "17.0"
+            },
+            "border-radius": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_78.svg"
+          },
+          {
+            "id": "W6",
+            "margin": {
+              "left": "273.0",
+              "right": "17.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "158.26530612244898",
+              "saturation": "0.8448275862068965",
+              "value": "0.9098039215686274"
+            },
+            "text-content": "W",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Rectangle 85",
+            "margin": {
+              "left": "290.0"
+            },
+            "border-radius": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_85.svg"
+          },
+          {
+            "id": "W7",
+            "margin": {
+              "left": "290.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "158.26530612244898",
+              "saturation": "0.8448275862068965",
+              "value": "0.9098039215686274"
+            },
+            "text-content": "W",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "Rectangle 86",
+            "margin": {
+              "left": "290.0"
+            },
+            "border-radius": "5.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "rectangle_86.svg"
+          },
+          {
+            "id": "W8",
+            "margin": {
+              "left": "290.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "158.26530612244898",
+              "saturation": "0.8448275862068965",
+              "value": "0.9098039215686274"
+            },
+            "text-content": "W",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "11.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "ORDEN HABILIDADES DEL CAMPEON",
+      "size": {
+        "width": 320.0,
+        "height": 158.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

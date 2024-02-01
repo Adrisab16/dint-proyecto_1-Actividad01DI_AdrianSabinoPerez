@@ -1,0 +1,424 @@
+{
+  "name": "portada",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "h4CkmrfwsKcoZ1TLUnb1ti",
+    "node": "57:1110",
+    "version": "5077427052",
+    "component-id": "3321297bcdf65b1fc443112f791f008f233dc2d0"
+  },
+  "default": "PORTADA",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "group",
+        "id": "top_level_synth"
+      },
+      {
+        "type": "group",
+        "id": "Group 2"
+      },
+      {
+        "type": "image",
+        "id": "klipartz 3"
+      },
+      {
+        "type": "group",
+        "id": "Group 3"
+      },
+      {
+        "type": "image",
+        "id": "klipartz 2"
+      },
+      {
+        "type": "image",
+        "id": "klipartz 1"
+      },
+      {
+        "type": "image",
+        "id": "klipartz 4"
+      },
+      {
+        "type": "vector",
+        "id": "BOTON TOPLANE"
+      },
+      {
+        "type": "text",
+        "id": "CAMPEONES"
+      },
+      {
+        "type": "vector",
+        "id": "BOTON JUNGLA"
+      },
+      {
+        "type": "text",
+        "id": "INFO JUEGO"
+      },
+      {
+        "type": "vector",
+        "id": "BOTON TOPLANE1"
+      },
+      {
+        "type": "text",
+        "id": "ABOUT ME"
+      }
+    ],
+    "modes": {
+      "PORTADA": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "top_level_synth",
+              "Group 2"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "top_level_synth",
+            "opacity": "100.0",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "main-axis-align": "start",
+            "cross-axis-align": "end",
+            "children": [
+              "klipartz 3",
+              "Group 3"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Group 2",
+            "border-radius": "20.0",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "87.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "290.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "210.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "227.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "BOTON TOPLANE",
+              "CAMPEONES",
+              "BOTON JUNGLA",
+              "INFO JUEGO",
+              "BOTON TOPLANE1",
+              "ABOUT ME"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "klipartz 3",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "360.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "174.0"
+              }
+            },
+            "image-content": "klipartz_3.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Group 3",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "384.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "580.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "klipartz 2",
+              "klipartz 1",
+              "klipartz 4"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "klipartz 2",
+            "opacity": "0.5",
+            "margin": {
+              "left": "192.0",
+              "bottom": "403.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "klipartz_2.png",
+            "scale": "cover"
+          },
+          {
+            "id": "klipartz 1",
+            "opacity": "0.5",
+            "margin": {
+              "left": "8.0",
+              "top": "20.0",
+              "right": "216.0",
+              "bottom": "397.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "klipartz_1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "klipartz 4",
+            "opacity": "0.5",
+            "margin": {
+              "top": "184.0",
+              "right": "24.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "image-content": "klipartz_4.png",
+            "scale": "cover"
+          },
+          {
+            "id": "BOTON TOPLANE",
+            "margin": {
+              "top": "87.0",
+              "bottom": "90.0"
+            },
+            "border-radius": "20.0",
+            "tap-handler": "$Campeones button",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "boton_toplane.svg"
+          },
+          {
+            "id": "CAMPEONES",
+            "margin": {
+              "left": "11.0",
+              "top": "95.0",
+              "right": "11.0",
+              "bottom": "98.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "41.66666666666667",
+              "saturation": "0.72",
+              "value": "0.7843137254901961"
+            },
+            "text-content": "CAMPEONES",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "18.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "BOTON JUNGLA",
+            "margin": {
+              "bottom": "177.0"
+            },
+            "border-radius": "20.0",
+            "tap-handler": "$Info Juego button",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "boton_jungla.svg"
+          },
+          {
+            "id": "INFO JUEGO",
+            "margin": {
+              "left": "11.0",
+              "top": "8.0",
+              "right": "11.0",
+              "bottom": "185.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "41.66666666666667",
+              "saturation": "0.72",
+              "value": "0.7843137254901961"
+            },
+            "text-content": "INFO JUEGO",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "18.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "BOTON TOPLANE1",
+            "margin": {
+              "top": "177.0"
+            },
+            "border-radius": "20.0",
+            "tap-handler": "$About me Button",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "boton_toplane1.svg"
+          },
+          {
+            "id": "ABOUT ME",
+            "margin": {
+              "left": "11.0",
+              "top": "185.0",
+              "right": "11.0",
+              "bottom": "8.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "41.66666666666667",
+              "saturation": "0.72",
+              "value": "0.7843137254901961"
+            },
+            "text-content": "ABOUT ME",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "18.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          }
+        ]
+      }
+    }
+  },
+  "parameters": {
+    "Campeones button": {
+      "data-type": "void-callback",
+      "required": false,
+      "description": ""
+    },
+    "Info Juego button": {
+      "data-type": "void-callback",
+      "required": false,
+      "description": ""
+    },
+    "About me Button": {
+      "data-type": "void-callback",
+      "required": false,
+      "description": ""
+    }
+  },
+  "previews": [
+    {
+      "design": "PORTADA",
+      "size": {
+        "width": 384.0,
+        "height": 754.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

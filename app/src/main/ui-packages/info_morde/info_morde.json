@@ -1,0 +1,73 @@
+{
+  "name": "info_morde",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "h4CkmrfwsKcoZ1TLUnb1ti",
+    "node": "96:1809",
+    "version": "5077250894",
+    "component-id": "e082878eb2102cf495bd8dcabd94fc642bd15237"
+  },
+  "default": "InfoMorde",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "adin_component",
+        "id": "INFORMACIÓN DEL CAMPEON",
+        "key": "informaci_n_del_campeon"
+      }
+    ],
+    "modes": {
+      "InfoMorde": {
+        "rules": [
+          {
+            "id": "top_level",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "shrink"
+              },
+              "height-constraints": {
+                "sizing-mode": "shrink"
+              }
+            },
+            "children": [
+              "INFORMACIÓN DEL CAMPEON"
+            ],
+            "item-spacing": "10.0",
+            "clip-content": "false"
+          },
+          {
+            "id": "INFORMACIÓN DEL CAMPEON",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "407.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "358.0"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "InfoMorde",
+      "size": {
+        "width": 407.0,
+        "height": 358.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}

@@ -1,0 +1,223 @@
+{
+  "name": "informaci_n_del_campeon",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "h4CkmrfwsKcoZ1TLUnb1ti",
+    "node": "42:740",
+    "version": "5077250894",
+    "component-id": "7170fc097e513f4862c207e5e8c342ac74d7697b"
+  },
+  "default": "INFORMACIÓN DEL CAMPEON",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "text",
+        "id": "INFORMACIÓN DEL CAMPEON"
+      },
+      {
+        "type": "text",
+        "id": "BIOGRAFÍA CAMPEON"
+      },
+      {
+        "type": "vector",
+        "id": "BOTON VER MÁS"
+      },
+      {
+        "type": "text",
+        "id": "Ver más..."
+      },
+      {
+        "type": "image",
+        "id": "pngaaa 1"
+      }
+    ],
+    "modes": {
+      "INFORMACIÓN DEL CAMPEON": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "INFORMACIÓN DEL CAMPEON",
+              "BIOGRAFÍA CAMPEON",
+              "BOTON VER MÁS",
+              "Ver más...",
+              "pngaaa 1"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "INFORMACIÓN DEL CAMPEON",
+            "margin": {
+              "right": "77.0",
+              "bottom": "308.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "900.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "INFORMACIÓN DEL CAMPEON",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "20.0",
+            "line-height": "1.41015625",
+            "typeface": "Arial"
+          },
+          {
+            "id": "BIOGRAFÍA CAMPEON",
+            "margin": {
+              "top": "60.0",
+              "right": "77.0",
+              "bottom": "94.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "1.0"
+            },
+            "text-content": "Mordekaiser es un sanguinario señor de la guerra proveniente de tiempos olvidados al que los siglos han visto nacer en tres ocasiones y morir en otras dos. Utiliza sus poderes necrománticos para atar almas perdidas a una vida eterna a su servicio. Ya no quedan muchos que recuerden sus conquistas iniciales o comprendan el alcance de su poder. Aquellos que lo hacen, no obstante, temen con angustia el día en el que regrese para alzarse sobre los vivos y los muertos.",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "text-size": "15.0",
+            "line-height": "1.14990234375",
+            "typeface": "Arial"
+          },
+          {
+            "id": "BOTON VER MÁS",
+            "margin": {
+              "top": "278.0",
+              "right": "342.0",
+              "bottom": "48.0"
+            },
+            "border-radius": "10.0",
+            "tap-handler": "$Boton vermas",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "boton_ver_m_s.svg"
+          },
+          {
+            "id": "Ver más...",
+            "margin": {
+              "left": "6.0",
+              "top": "287.0",
+              "right": "344.0",
+              "bottom": "55.0"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "180.0",
+              "saturation": "0.7686274509803921",
+              "value": "1.0"
+            },
+            "text-content": "Ver más...",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align": "left",
+            "text-align-vertical": "center",
+            "text-size": "12.0",
+            "line-height": "1.14990234375",
+            "typeface": "Arial"
+          },
+          {
+            "id": "pngaaa 1",
+            "opacity": "0.20000000298023224",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "105.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "78.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "302.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "280.0"
+              }
+            },
+            "image-content": "pngaaa_1.png",
+            "scale": "cover"
+          }
+        ]
+      }
+    }
+  },
+  "parameters": {
+    "Boton vermas": {
+      "data-type": "void-callback",
+      "required": false,
+      "description": ""
+    }
+  },
+  "previews": [
+    {
+      "design": "INFORMACIÓN DEL CAMPEON",
+      "size": {
+        "width": 407.0,
+        "height": 358.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}
