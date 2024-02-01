@@ -1,11 +1,15 @@
 [
     {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_builds_del_campeon_image_11.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\builds_del_campeon_image_11.png"
+    },
+    {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_orden_habilidades_del_campeon_rectangle_94.xml.flat",
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\orden_habilidades_del_campeon_rectangle_94.xml"
     },
     {
-        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_orden_habilidades_del_campeon_rectangle_63.xml.flat",
-        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/orden_habilidades_del_campeon_rectangle_63.xml"
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_builds_del_campeon_image_18.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\builds_del_campeon_image_18.png"
     },
     {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_portada_boton_toplane.xml.flat",
@@ -16,20 +20,44 @@
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-main-47:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_info_lanes_image_40.png.flat",
-        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\info_lanes_image_40.png"
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_runas_del_campeon_image_32.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\runas_del_campeon_image_32.png"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_champion_cards_mordekaiser.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\champion_cards_mordekaiser.png"
     },
     {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\mipmap-hdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-main-47:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_info_lanes_image_40.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\info_lanes_image_40.png"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_runas_del_campeon_image_24.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\runas_del_campeon_image_24.png"
+    },
+    {
+        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_champion_cards_jax_card.xml.flat",
+        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/champion_cards_jax_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_boton_back_y_link_a_opgg_rectangle_6.xml.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\boton_back_y_link_a_opgg_rectangle_6.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_runas_del_campeon_rectangle_103.xml.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\runas_del_campeon_rectangle_103.xml"
+    },
+    {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_ficha_morde_image_6.png.flat",
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\ficha_morde_image_6.png"
     },
     {
-        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_orden_habilidades_del_campeon_rectangle_86.xml.flat",
-        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/orden_habilidades_del_campeon_rectangle_86.xml"
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_champion_cards_jax_card.xml.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\champion_cards_jax_card.xml"
     },
     {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\mipmap-mdpi_ic_launcher.webp.flat",
@@ -40,20 +68,20 @@
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\orden_habilidades_del_campeon_rectangle_79.xml"
     },
     {
-        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_orden_habilidades_del_campeon_rectangle_78.xml.flat",
-        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/orden_habilidades_del_campeon_rectangle_78.xml"
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_portada_klipartz_4.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\portada_klipartz_4.png"
     },
     {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_habilidades_del_campeon_image_9.png.flat",
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\habilidades_del_campeon_image_9.png"
     },
     {
-        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_portada_klipartz_4.png.flat",
-        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\portada_klipartz_4.png"
-    },
-    {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_cabezera_image_5.png.flat",
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\cabezera_image_5.png"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_champion_cards_trundle.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\champion_cards_trundle.png"
     },
     {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_cabezera_rectangle_2.xml.flat",
@@ -62,6 +90,14 @@
     {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_orden_habilidades_del_campeon_rectangle_57.xml.flat",
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\orden_habilidades_del_campeon_rectangle_57.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_builds_del_campeon_image_12.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\builds_del_campeon_image_12.png"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_runas_del_campeon_image_23.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\runas_del_campeon_image_23.png"
     },
     {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_informaci_n_del_campeon_pngaaa_1.png.flat",
@@ -74,6 +110,10 @@
     {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_orden_habilidades_del_campeon_rectangle_63.xml.flat",
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\orden_habilidades_del_campeon_rectangle_63.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_champion_cards_rectangle_5.xml.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\champion_cards_rectangle_5.xml"
     },
     {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_habilidades_del_campeon_image_10.png.flat",
@@ -92,8 +132,20 @@
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\portada_klipartz_3.png"
     },
     {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_boton_back_y_link_a_opgg_rectangle_5.xml.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\boton_back_y_link_a_opgg_rectangle_5.xml"
+    },
+    {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_foto_background_portada_klipartz_4.png.flat",
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\foto_background_portada_klipartz_4.png"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_runas_del_campeon_rectangle_104.xml.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\runas_del_campeon_rectangle_104.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_champion_cards_trundle_card.xml.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\champion_cards_trundle_card.xml"
     },
     {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_habilidades_morde_image_33.png.flat",
@@ -120,24 +172,28 @@
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\habilidades_morde_image_7.png"
     },
     {
-        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_orden_habilidades_del_campeon_rectangle_77.xml.flat",
-        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/orden_habilidades_del_campeon_rectangle_77.xml"
-    },
-    {
-        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_orden_habilidades_del_campeon_rectangle_57.xml.flat",
-        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/orden_habilidades_del_campeon_rectangle_57.xml"
-    },
-    {
-        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_orden_habilidades_del_campeon_rectangle_80.xml.flat",
-        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/orden_habilidades_del_campeon_rectangle_80.xml"
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_runas_del_campeon_image_30.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\runas_del_campeon_image_30.png"
     },
     {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_orden_habilidades_del_campeon_rectangle_96.xml.flat",
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\orden_habilidades_del_campeon_rectangle_96.xml"
     },
     {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_champion_cards_fiora_card.xml.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\champion_cards_fiora_card.xml"
+    },
+    {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_orden_habilidades_del_campeon_habilidad_e.png.flat",
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\orden_habilidades_del_campeon_habilidad_e.png"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_champion_cards_sett.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\champion_cards_sett.png"
+    },
+    {
+        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_champion_cards_rectangle_7.xml.flat",
+        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/champion_cards_rectangle_7.xml"
     },
     {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_informaci_n_del_campeon_boton_ver_m_s.xml.flat",
@@ -146,10 +202,6 @@
     {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_orden_habilidades_del_campeon_rectangle_88.xml.flat",
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\orden_habilidades_del_campeon_rectangle_88.xml"
-    },
-    {
-        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_orden_habilidades_del_campeon_rectangle_95.xml.flat",
-        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/orden_habilidades_del_campeon_rectangle_95.xml"
     },
     {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_orden_habilidades_del_campeon_rectangle_62.xml.flat",
@@ -172,12 +224,20 @@
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\cabezera_image_7.png"
     },
     {
-        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_orden_habilidades_del_campeon_rectangle_92.xml.flat",
-        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/orden_habilidades_del_campeon_rectangle_92.xml"
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_runas_del_campeon_rectangle_101.xml.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\runas_del_campeon_rectangle_101.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_runas_del_campeon_image_22.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\runas_del_campeon_image_22.png"
     },
     {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-main-47:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_champion_cards_garen_card.xml.flat",
+        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/champion_cards_garen_card.xml"
     },
     {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_orden_habilidades_del_campeon_rectangle_85.xml.flat",
@@ -188,48 +248,48 @@
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\orden_habilidades_del_campeon_rectangle_58.xml"
     },
     {
-        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_orden_habilidades_del_campeon_rectangle_65.xml.flat",
-        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/orden_habilidades_del_campeon_rectangle_65.xml"
-    },
-    {
-        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_orden_habilidades_del_campeon_rectangle_62.xml.flat",
-        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/orden_habilidades_del_campeon_rectangle_62.xml"
-    },
-    {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_orden_habilidades_del_campeon_rectangle_80.xml.flat",
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\orden_habilidades_del_campeon_rectangle_80.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_counters_del_campeon_tryndamere.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\counters_del_campeon_tryndamere.png"
     },
     {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\mipmap-mdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-main-47:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_orden_habilidades_del_campeon_habilidad_e.png.flat",
-        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/orden_habilidades_del_campeon_habilidad_e.png"
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_counters_del_campeon_quinn.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\counters_del_campeon_quinn.png"
     },
     {
-        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_orden_habilidades_del_campeon_rectangle_88.xml.flat",
-        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/orden_habilidades_del_campeon_rectangle_88.xml"
-    },
-    {
-        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_orden_habilidades_del_campeon_rectangle_75.xml.flat",
-        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/orden_habilidades_del_campeon_rectangle_75.xml"
-    },
-    {
-        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_orden_habilidades_del_campeon_rectangle_85.xml.flat",
-        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/orden_habilidades_del_campeon_rectangle_85.xml"
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_builds_del_campeon_image_17.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\builds_del_campeon_image_17.png"
     },
     {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_orden_habilidades_del_campeon_rectangle_90.xml.flat",
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\orden_habilidades_del_campeon_rectangle_90.xml"
     },
     {
-        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_orden_habilidades_del_campeon_rectangle_98.xml.flat",
-        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/orden_habilidades_del_campeon_rectangle_98.xml"
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_champion_cards_malphite.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\champion_cards_malphite.png"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_champion_cards_rectangle_7.xml.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\champion_cards_rectangle_7.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_runas_del_campeon_image_28.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\runas_del_campeon_image_28.png"
     },
     {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_habilidades_morde_image_9.png.flat",
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\habilidades_morde_image_9.png"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_champion_cards_garen_card.xml.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\champion_cards_garen_card.xml"
     },
     {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_portada_boton_jungla.xml.flat",
@@ -248,10 +308,6 @@
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-main-47:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_orden_habilidades_del_campeon_rectangle_89.xml.flat",
-        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/orden_habilidades_del_campeon_rectangle_89.xml"
-    },
-    {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_titulo_seleccion_de_rol_rectangle_107.xml.flat",
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\titulo_seleccion_de_rol_rectangle_107.xml"
     },
@@ -264,32 +320,40 @@
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\orden_habilidades_del_campeon_rectangle_75.xml"
     },
     {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_counters_del_campeon_fiora.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\counters_del_campeon_fiora.png"
+    },
+    {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_orden_habilidades_del_campeon_rectangle_98.xml.flat",
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\orden_habilidades_del_campeon_rectangle_98.xml"
     },
     {
-        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_orden_habilidades_del_campeon_rectangle_90.xml.flat",
-        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/orden_habilidades_del_campeon_rectangle_90.xml"
-    },
-    {
-        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_orden_habilidades_del_campeon_rectangle_60.xml.flat",
-        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/orden_habilidades_del_campeon_rectangle_60.xml"
-    },
-    {
-        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_orden_habilidades_del_campeon_rectangle_59.xml.flat",
-        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/orden_habilidades_del_campeon_rectangle_59.xml"
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_runas_del_campeon_image_20.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\runas_del_campeon_image_20.png"
     },
     {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_orden_habilidades_del_campeon_rectangle_91.xml.flat",
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\orden_habilidades_del_campeon_rectangle_91.xml"
     },
     {
-        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_orden_habilidades_del_campeon_rectangle_97.xml.flat",
-        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/orden_habilidades_del_campeon_rectangle_97.xml"
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_button_footer_image_39.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\button_footer_image_39.png"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_builds_del_campeon_image_14.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\builds_del_campeon_image_14.png"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_champion_cards_fiora.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\champion_cards_fiora.png"
     },
     {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_orden_habilidades_del_campeon_habilidad_q.png.flat",
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\orden_habilidades_del_campeon_habilidad_q.png"
+    },
+    {
+        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_champion_cards_fiora_card.xml.flat",
+        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/champion_cards_fiora_card.xml"
     },
     {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_info_morde_pngaaa_1.png.flat",
@@ -308,20 +372,32 @@
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\orden_habilidades_del_campeon_rectangle_89.xml"
     },
     {
-        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_orden_habilidades_del_campeon_rectangle_96.xml.flat",
-        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/orden_habilidades_del_campeon_rectangle_96.xml"
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_runas_del_campeon_rectangle_100.xml.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\runas_del_campeon_rectangle_100.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_builds_del_campeon_image_15.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\builds_del_campeon_image_15.png"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_counters_del_campeon_olaf.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\counters_del_campeon_olaf.png"
     },
     {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_foto_inicio_portada_klipartz_3.png.flat",
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\foto_inicio_portada_klipartz_3.png"
     },
     {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_orden_habilidades_del_campeon_rectangle_60.xml.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\orden_habilidades_del_campeon_rectangle_60.xml"
+    },
+    {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\mipmap-xhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-main-47:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_orden_habilidades_del_campeon_rectangle_60.xml.flat",
-        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\orden_habilidades_del_campeon_rectangle_60.xml"
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_runas_del_campeon_image_26.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\runas_del_campeon_image_26.png"
     },
     {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_button_boton_jungla.xml.flat",
@@ -332,40 +408,44 @@
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\orden_habilidades_del_campeon_rectangle_92.xml"
     },
     {
-        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_orden_habilidades_del_campeon_rectangle_58.xml.flat",
-        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/orden_habilidades_del_campeon_rectangle_58.xml"
-    },
-    {
-        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_orden_habilidades_del_campeon_habilidad_q.png.flat",
-        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/orden_habilidades_del_campeon_habilidad_q.png"
-    },
-    {
-        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_orden_habilidades_del_campeon_rectangle_76.xml.flat",
-        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/orden_habilidades_del_campeon_rectangle_76.xml"
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_champion_cards_jax.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\champion_cards_jax.png"
     },
     {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_habilidades_morde_image_10.png.flat",
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\habilidades_morde_image_10.png"
     },
     {
-        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_orden_habilidades_del_campeon_rectangle_61.xml.flat",
-        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/orden_habilidades_del_campeon_rectangle_61.xml"
-    },
-    {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_orden_habilidades_del_campeon_rectangle_81.xml.flat",
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\orden_habilidades_del_campeon_rectangle_81.xml"
     },
     {
-        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_orden_habilidades_del_campeon_rectangle_87.xml.flat",
-        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/orden_habilidades_del_campeon_rectangle_87.xml"
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_champion_cards_sion.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\champion_cards_sion.png"
     },
     {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-main-47:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_builds_del_campeon_image_16.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\builds_del_campeon_image_16.png"
+    },
+    {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_habilidades_del_campeon_image_7.png.flat",
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\habilidades_del_campeon_image_7.png"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_footer_rectangle_106.xml.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\footer_rectangle_106.xml"
+    },
+    {
+        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_champion_cards_trundle_card.xml.flat",
+        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/champion_cards_trundle_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_champion_cards_mordekiaser_card.xml.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\champion_cards_mordekiaser_card.xml"
     },
     {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_portada_boton_toplane1.xml.flat",
@@ -380,16 +460,28 @@
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\info_morde_boton_ver_m_s.xml"
     },
     {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_champion_cards_malphite_card.xml.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\champion_cards_malphite_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_runas_del_campeon_image_29.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\runas_del_campeon_image_29.png"
+    },
+    {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_habilidades_del_campeon_image_33.png.flat",
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\habilidades_del_campeon_image_33.png"
     },
     {
-        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_orden_habilidades_del_campeon_rectangle_84.xml.flat",
-        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/orden_habilidades_del_campeon_rectangle_84.xml"
-    },
-    {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\xml_backup_rules.xml.flat",
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-main-47:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_counters_del_campeon_gangplanck.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\counters_del_campeon_gangplanck.png"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_champion_cards_sett_card.xml.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\champion_cards_sett_card.xml"
     },
     {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_orden_habilidades_del_campeon_rectangle_77.xml.flat",
@@ -404,47 +496,67 @@
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\habilidades_morde_image_8.png"
     },
     {
-        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_orden_habilidades_del_campeon_rectangle_81.xml.flat",
-        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/orden_habilidades_del_campeon_rectangle_81.xml"
-    },
-    {
-        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_orden_habilidades_del_campeon_rectangle_94.xml.flat",
-        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/orden_habilidades_del_campeon_rectangle_94.xml"
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_runas_del_campeon_image_19.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\runas_del_campeon_image_19.png"
     },
     {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_orden_habilidades_del_campeon_rectangle_61.xml.flat",
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\orden_habilidades_del_campeon_rectangle_61.xml"
     },
     {
-        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_orden_habilidades_del_campeon_habilidad_w.png.flat",
-        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/orden_habilidades_del_campeon_habilidad_w.png"
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_champion_cards_garen.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\champion_cards_garen.png"
     },
     {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_orden_habilidades_del_campeon_rectangle_87.xml.flat",
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\orden_habilidades_del_campeon_rectangle_87.xml"
     },
     {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_runas_del_campeon_image_31.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\runas_del_campeon_image_31.png"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_runas_del_campeon_rectangle_105.xml.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\runas_del_campeon_rectangle_105.xml"
+    },
+    {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_orden_habilidades_del_campeon_rectangle_84.xml.flat",
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\orden_habilidades_del_campeon_rectangle_84.xml"
     },
     {
-        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_orden_habilidades_del_campeon_rectangle_91.xml.flat",
-        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/orden_habilidades_del_campeon_rectangle_91.xml"
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_counters_del_campeon_jax.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\counters_del_campeon_jax.png"
     },
     {
-        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_orden_habilidades_del_campeon_rectangle_79.xml.flat",
-        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/orden_habilidades_del_campeon_rectangle_79.xml"
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_champion_cards_nasus.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\champion_cards_nasus.png"
     },
     {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-main-47:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_builds_del_campeon_image_13.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\builds_del_campeon_image_13.png"
+    },
+    {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_orden_habilidades_del_campeon_rectangle_59.xml.flat",
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\orden_habilidades_del_campeon_rectangle_59.xml"
     },
     {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_runas_del_campeon_rectangle_102.xml.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\runas_del_campeon_rectangle_102.xml"
+    },
+    {
+        "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_runas_del_campeon_image_21.png.flat",
+        "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\runas_del_campeon_image_21.png"
+    },
+    {
         "merged": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-merged_res-45:\\drawable-nodpi_orden_habilidades_del_campeon_rectangle_97.xml.flat",
         "source": "C:\\Users\\usuariot\\.gradle\\daemon\\8.2\\com.example.actividad1di.app-relay-41:\\drawable-nodpi\\orden_habilidades_del_campeon_rectangle_97.xml"
+    },
+    {
+        "merged": "com.example.actividad1di.app-merged_res-45:/drawable-nodpi_champion_cards_rectangle_5.xml.flat",
+        "source": "com.example.actividad1di.app-relay-41:/drawable-nodpi/champion_cards_rectangle_5.xml"
     }
 ]

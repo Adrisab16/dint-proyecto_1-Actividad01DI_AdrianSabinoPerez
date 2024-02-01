@@ -3,7 +3,6 @@ package com.example.actividad1di.infolanes
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.fillMaxHeight
 import androidx.compose.foundation.layout.fillMaxWidth
-import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.requiredHeight
 import androidx.compose.foundation.layout.requiredWidth
 import androidx.compose.foundation.layout.wrapContentHeight
@@ -18,12 +17,12 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
+import androidx.compose.ui.unit.DpOffset
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.em
 import androidx.compose.ui.unit.sp
 import com.example.actividad1di.R
 import com.google.relay.compose.RelayContainer
-import com.google.relay.compose.RelayContainerArrangement
 import com.google.relay.compose.RelayContainerScope
 import com.google.relay.compose.RelayImage
 import com.google.relay.compose.RelayText
@@ -38,12 +37,28 @@ fun InfoLanes(modifier: Modifier = Modifier) {
         TopLevelSynth {
             Image40()
         }
-        TOPLANE(modifier = Modifier.rowWeight(1.0f).columnWeight(1.0f))
-        Infotxt(modifier = Modifier.rowWeight(1.0f).columnWeight(1.0f))
+        TOPLANE(
+            modifier = Modifier.boxAlign(
+                alignment = Alignment.Center,
+                offset = DpOffset(
+                    x = -0.3600006103515625.dp,
+                    y = -198.0045871734619.dp
+                )
+            )
+        )
+        Infotxt(
+            modifier = Modifier.boxAlign(
+                alignment = Alignment.Center,
+                offset = DpOffset(
+                    x = 0.0001068115234375.dp,
+                    y = 27.557403564453125.dp
+                )
+            )
+        )
     }
 }
 
-@Preview(widthDp = 545, heightDp = 485)
+@Preview(widthDp = 589, heightDp = 445)
 @Composable
 private fun InfoLanesPreview() {
     MaterialTheme {
@@ -68,13 +83,13 @@ fun TopLevelSynth(
     content: @Composable RelayContainerScope.() -> Unit
 ) {
     RelayContainer(
-        arrangement = RelayContainerArrangement.Row,
         padding = PaddingValues(
-            start = 0.0.dp,
-            top = 20.0.dp,
-            end = 0.0.dp,
-            bottom = 20.0.dp
+            start = 22.0.dp,
+            top = 0.0.dp,
+            end = 22.0.dp,
+            bottom = 0.0.dp
         ),
+        itemSpacing = 10.0,
         clipToParent = false,
         content = content,
         modifier = modifier.alpha(alpha = 100.0f)
@@ -96,14 +111,7 @@ fun TOPLANE(modifier: Modifier = Modifier) {
         height = 1.41015625.em,
         fontWeight = FontWeight(900.0.toInt()),
         maxLines = -1,
-        modifier = modifier.padding(
-            paddingValues = PaddingValues(
-                start = 130.466796875.dp,
-                top = 0.0.dp,
-                end = 131.13320922851562.dp,
-                bottom = 431.6055030822754.dp
-            )
-        ).fillMaxWidth(1.0f).fillMaxHeight(1.0f).wrapContentHeight(align = Alignment.CenterVertically)
+        modifier = modifier.requiredWidth(306.2799987792969.dp).requiredHeight(48.99082565307617.dp).wrapContentHeight(align = Alignment.CenterVertically)
     )
 }
 
@@ -123,14 +131,7 @@ fun Infotxt(modifier: Modifier = Modifier) {
         textAlign = TextAlign.Left,
         fontWeight = FontWeight(900.0.toInt()),
         maxLines = -1,
-        modifier = modifier.padding(
-            paddingValues = PaddingValues(
-                start = 130.800048828125.dp,
-                top = 82.3165283203125.dp,
-                end = 130.79995727539062.dp,
-                bottom = 22.2476806640625.dp
-            )
-        ).fillMaxWidth(1.0f).fillMaxHeight(1.0f)
+        modifier = modifier.requiredWidth(306.2799987792969.dp).requiredHeight(349.05963134765625.dp)
     )
 }
 

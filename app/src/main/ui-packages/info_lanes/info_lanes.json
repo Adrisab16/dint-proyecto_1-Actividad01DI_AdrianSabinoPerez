@@ -5,7 +5,7 @@
     "type": "figma",
     "file": "h4CkmrfwsKcoZ1TLUnb1ti",
     "node": "51:2358",
-    "version": "5076911106",
+    "version": "5077977965",
     "component-id": "7584b18aa6382d424900b815492222dd004169dd"
   },
   "default": "INFO LANES",
@@ -50,8 +50,8 @@
             "id": "top_level_synth",
             "opacity": "100.0",
             "padding": {
-              "top": "20.0",
-              "bottom": "20.0"
+              "left": "22.0",
+              "right": "22.0"
             },
             "size-constraints": {
               "width-constraints": {
@@ -61,27 +61,32 @@
                 "sizing-mode": "shrink"
               }
             },
-            "arrangement": "row",
             "children": [
               "image 40"
             ],
+            "item-spacing": "10.0",
             "clip-content": "false"
           },
           {
             "id": "TOPLANE",
-            "margin": {
-              "left": "130.466796875",
-              "right": "131.13320922851562",
-              "bottom": "431.6055030822754"
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-0.3600006103515625"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-198.0045871734619"
+              }
             },
             "size-constraints": {
               "width-constraints": {
-                "sizing-mode": "proportional",
-                "value": "1.0"
+                "sizing-mode": "fixed",
+                "value": "306.2799987792969"
               },
               "height-constraints": {
-                "sizing-mode": "proportional",
-                "value": "1.0"
+                "sizing-mode": "fixed",
+                "value": "48.99082565307617"
               }
             },
             "font-weight": "900.0",
@@ -101,20 +106,24 @@
           },
           {
             "id": "Infotxt",
-            "margin": {
-              "left": "130.800048828125",
-              "top": "82.3165283203125",
-              "right": "130.79995727539062",
-              "bottom": "22.2476806640625"
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0001068115234375"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "27.557403564453125"
+              }
             },
             "size-constraints": {
               "width-constraints": {
-                "sizing-mode": "proportional",
-                "value": "1.0"
+                "sizing-mode": "fixed",
+                "value": "306.2799987792969"
               },
               "height-constraints": {
-                "sizing-mode": "proportional",
-                "value": "1.0"
+                "sizing-mode": "fixed",
+                "value": "349.05963134765625"
               }
             },
             "font-weight": "900.0",
@@ -156,8 +165,8 @@
     {
       "design": "INFO LANES",
       "size": {
-        "width": 545.0,
-        "height": 485.0
+        "width": 589.0,
+        "height": 445.0
       }
     }
   ],

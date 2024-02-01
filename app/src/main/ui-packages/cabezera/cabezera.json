@@ -5,7 +5,7 @@
     "type": "figma",
     "file": "h4CkmrfwsKcoZ1TLUnb1ti",
     "node": "39:724",
-    "version": "5069882014",
+    "version": "5077932432",
     "component-id": "203a332f676d6707eac787da1bb139d4abce6c76"
   },
   "default": "CABEZERA",
@@ -35,9 +35,9 @@
           {
             "id": "top_level",
             "padding": {
-              "left": "6.0",
+              "left": "20.0",
               "top": "9.0",
-              "right": "6.0",
+              "right": "20.0",
               "bottom": "9.0"
             },
             "size-constraints": {
@@ -59,7 +59,7 @@
               "alpha": "1.0",
               "hue": "0.0",
               "saturation": "0.0",
-              "value": "0.0"
+              "value": "0.2"
             }
           },
           {
@@ -115,7 +115,7 @@
     {
       "design": "CABEZERA",
       "size": {
-        "width": 331.0,
+        "width": 359.0,
         "height": 88.0
       }
     }

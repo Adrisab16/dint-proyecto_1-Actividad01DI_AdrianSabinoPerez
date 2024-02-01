@@ -5,7 +5,7 @@
     "type": "figma",
     "file": "h4CkmrfwsKcoZ1TLUnb1ti",
     "node": "42:1187",
-    "version": "5076559584",
+    "version": "5077938216",
     "component-id": "5cd0112303f8b2f85425d61af06f278120efbe5b"
   },
   "default": "BACKGROUND FICHA CAMPEON",
@@ -34,93 +34,12 @@
               }
             },
             "item-spacing": "10.0",
-            "fills": [
-              {
-                "color": {},
-                "opacity": "1.0",
-                "fill-type": "lineargradient",
-                "blend-mode": "normal",
-                "color-stops": [
-                  {
-                    "color": {
-                      "alpha": "1.0",
-                      "hue": "0.0",
-                      "saturation": "0.02439024390243911",
-                      "value": "0.1607843137254902"
-                    },
-                    "color-stop-position": "0.0"
-                  },
-                  {
-                    "color": {
-                      "alpha": "0.0",
-                      "hue": "0.0",
-                      "saturation": "0.048780487804878044",
-                      "value": "0.1607843137254902"
-                    },
-                    "color-stop-position": "0.0"
-                  },
-                  {
-                    "color": {
-                      "alpha": "0.11372549019607843",
-                      "hue": "0.0",
-                      "saturation": "0.02631578947368412",
-                      "value": "0.14901960784313725"
-                    },
-                    "color-stop-position": "0.0"
-                  },
-                  {
-                    "color": {
-                      "alpha": "0.9215686274509803",
-                      "hue": "0.0",
-                      "saturation": "0.0",
-                      "value": "0.0784313725490196"
-                    },
-                    "color-stop-position": "0.0"
-                  },
-                  {
-                    "color": {
-                      "alpha": "0.9490196078431372",
-                      "hue": "0.0",
-                      "saturation": "0.0",
-                      "value": "0.0784313725490196"
-                    },
-                    "color-stop-position": "0.0"
-                  },
-                  {
-                    "color": {
-                      "alpha": "1.0",
-                      "hue": "0.0",
-                      "saturation": "0.058823529411764705",
-                      "value": "0.06666666666666667"
-                    },
-                    "color-stop-position": "0.0"
-                  },
-                  {
-                    "color": {
-                      "alpha": "0.807843137254902",
-                      "hue": "0.0",
-                      "saturation": "0.05263157894736842",
-                      "value": "0.14901960784313725"
-                    },
-                    "color-stop-position": "1.0"
-                  }
-                ],
-                "gradient-handle-positions": [
-                  {
-                    "x": "0.5",
-                    "y": "0.0"
-                  },
-                  {
-                    "x": "0.5",
-                    "y": "1.0"
-                  },
-                  {
-                    "x": "0.0",
-                    "y": "0.0"
-                  }
-                ]
-              }
-            ]
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.0"
+            }
           }
         ]
       }

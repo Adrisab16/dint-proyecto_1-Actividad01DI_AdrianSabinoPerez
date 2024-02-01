@@ -30,7 +30,7 @@ fun Cabezera(modifier: Modifier = Modifier) {
     }
 }
 
-@Preview(widthDp = 331, heightDp = 88)
+@Preview(widthDp = 359, heightDp = 88)
 @Composable
 private fun CabezeraPreview() {
     MaterialTheme {
@@ -73,15 +73,15 @@ fun TopLevel(
     RelayContainer(
         backgroundColor = Color(
             alpha = 255,
-            red = 0,
-            green = 0,
-            blue = 0
+            red = 51,
+            green = 51,
+            blue = 51
         ),
         arrangement = RelayContainerArrangement.Row,
         padding = PaddingValues(
-            start = 6.0.dp,
+            start = 20.0.dp,
             top = 9.0.dp,
-            end = 6.0.dp,
+            end = 20.0.dp,
             bottom = 9.0.dp
         ),
         itemSpacing = 27.0,
